@@ -1,6 +1,6 @@
 {
  "name": "Alkima",
- "version": "2026.10.10-1117",
+ "version": "2026.10.10-1137",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -18,6 +18,62 @@
   "mods"
  ],
  "files": [
+  {
+   "path": "config/alexscaves-client.toml",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/alexscaves-client.toml?v=d830fed5c1",
+   "sha1": "d830fed5c1ab63e92897e091fa93900af577ddee",
+   "size": 1900,
+   "mode": "update"
+  },
+  {
+   "path": "config/alexscaves-general.toml",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/alexscaves-general.toml?v=41bbf09bef",
+   "sha1": "41bbf09bef87b9cafc7ad46eaac1f10efb2f9b93",
+   "size": 6084,
+   "mode": "update"
+  },
+  {
+   "path": "config/alexscaves_biome_generation/abyssal_chasm.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/alexscaves_biome_generation/abyssal_chasm.json?v=d896874a98",
+   "sha1": "d896874a9846b83f5cb90024810395dcf286e580",
+   "size": 272,
+   "mode": "update"
+  },
+  {
+   "path": "config/alexscaves_biome_generation/candy_cavity.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/alexscaves_biome_generation/candy_cavity.json?v=045cf36017",
+   "sha1": "045cf36017defc58ed3f9492d3b64a45f0499b00",
+   "size": 227,
+   "mode": "update"
+  },
+  {
+   "path": "config/alexscaves_biome_generation/forlorn_hollows.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/alexscaves_biome_generation/forlorn_hollows.json?v=b7b6643ef3",
+   "sha1": "b7b6643ef384cfd4c97361a45b4ca29ca7c1f848",
+   "size": 226,
+   "mode": "update"
+  },
+  {
+   "path": "config/alexscaves_biome_generation/magnetic_caves.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/alexscaves_biome_generation/magnetic_caves.json?v=07646fea7d",
+   "sha1": "07646fea7d50314af33fff29c66f1f1f11d30119",
+   "size": 226,
+   "mode": "update"
+  },
+  {
+   "path": "config/alexscaves_biome_generation/primordial_caves.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/alexscaves_biome_generation/primordial_caves.json?v=cc4e5323cd",
+   "sha1": "cc4e5323cd767f17efbb6b8fcb4376ab6f144a06",
+   "size": 227,
+   "mode": "update"
+  },
+  {
+   "path": "config/alexscaves_biome_generation/toxic_caves.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/alexscaves_biome_generation/toxic_caves.json?v=992d39ce2b",
+   "sha1": "992d39ce2bbb19bee9815772406237fe9db9a027",
+   "size": 226,
+   "mode": "update"
+  },
   {
    "path": "config/alkima_optimizer-client.toml",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/alkima_optimizer-client.toml?v=f3db5434bd",
@@ -62,8 +118,8 @@
   },
   {
    "path": "config/asyncparticles/asyncparticles-mixin.properties",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/asyncparticles/asyncparticles-mixin.properties?v=a8ee76338b",
-   "sha1": "a8ee76338b91f98eec1fb0cbb30f149fd3d20729",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/asyncparticles/asyncparticles-mixin.properties?v=9d8c8ef213",
+   "sha1": "9d8c8ef213214457ab08f27bb4ba437d5607ca8c",
    "size": 2141,
    "mode": "update"
   },
@@ -149,6 +205,13 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/c2me.toml?v=34139a1f70",
    "sha1": "34139a1f70204cd1638507c7172e2dc44531a348",
    "size": 6002,
+   "mode": "update"
+  },
+  {
+   "path": "config/citadel-common.toml",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/citadel-common.toml?v=f3aad9442c",
+   "sha1": "f3aad9442cc4ae95760ceb68f75d5735e9247f6a",
+   "size": 648,
    "mode": "update"
   },
   {
@@ -254,6 +317,13 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/dreadsteel-common.toml?v=28c7799b6a",
    "sha1": "28c7799b6a09da200e1691d1a5a81e85d7a9862a",
    "size": 739,
+   "mode": "update"
+  },
+  {
+   "path": "config/dynamic_fps.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/dynamic_fps.json?v=5f36b2ea29",
+   "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+   "size": 3,
    "mode": "update"
   },
   {
@@ -523,6 +593,27 @@
    "mode": "update"
   },
   {
+   "path": "config/mobtimizations/features-customization.toml",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/mobtimizations/features-customization.toml?v=3aa1057aee",
+   "sha1": "3aa1057aee5e81001c8ca9a3f01c81b1853dc3ac",
+   "size": 1291,
+   "mode": "update"
+  },
+  {
+   "path": "config/mobtimizations/features.toml",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/mobtimizations/features.toml?v=e697aa9026",
+   "sha1": "e697aa9026c9913a32dc3677300042ed86043095",
+   "size": 1260,
+   "mode": "update"
+  },
+  {
+   "path": "config/mobtimizations/MobsBlacklist.toml",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/mobtimizations/MobsBlacklist.toml?v=36d58d990e",
+   "sha1": "36d58d990e16c537186a62929f3a3d8701fb9060",
+   "size": 2072,
+   "mode": "update"
+  },
+  {
    "path": "config/modernfix-common.toml",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/modernfix-common.toml?v=046452d3af",
    "sha1": "046452d3af87f5c1fd5de5650e3d1b73c930fd92",
@@ -628,6 +719,27 @@
    "mode": "update"
   },
   {
+   "path": "config/realmrpg/quests/angler.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/realmrpg/quests/angler.json?v=520bbb97b4",
+   "sha1": "520bbb97b48dea2fa36a754650734214f016ebef",
+   "size": 13319,
+   "mode": "update"
+  },
+  {
+   "path": "config/realmrpg/quests/cook.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/realmrpg/quests/cook.json?v=628d7ffcf0",
+   "sha1": "628d7ffcf0f05d58674a37016ec730d536b07c73",
+   "size": 7032,
+   "mode": "update"
+  },
+  {
+   "path": "config/realmrpg/quests/monster_hunter.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/realmrpg/quests/monster_hunter.json?v=581df6c657",
+   "sha1": "581df6c657fb4a4c30e3f81d0bc1b7d1397d9883",
+   "size": 5243,
+   "mode": "update"
+  },
+  {
    "path": "config/repairbox-common.toml",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/repairbox-common.toml?v=6271ec7f9f",
    "sha1": "6271ec7f9fdbb2b65381c47f6948b5ae8f3d814b",
@@ -639,6 +751,13 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/resourceful-config-web.json?v=a1744e00fc",
    "sha1": "a1744e00fc81bf90fa55ac14f4ce4aefeea4ed1a",
    "size": 196,
+   "mode": "update"
+  },
+  {
+   "path": "config/saturn-optimizations.toml",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/saturn-optimizations.toml?v=17fb4fe9d0",
+   "sha1": "17fb4fe9d04bcbe01b3a569885c510bf5168cc7e",
+   "size": 445,
    "mode": "update"
   },
   {
@@ -846,8 +965,8 @@
   },
   {
    "path": "config/zfastnoise.mixin.properties",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/zfastnoise.mixin.properties?v=606fa159bf",
-   "sha1": "606fa159bfde3de9f89d4d57ca8a2f8f9c37bbdd",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/zfastnoise.mixin.properties?v=9a190d8768",
+   "sha1": "9a190d8768bab9b79ee4fe0c34fdd49798ab6ad2",
    "size": 80,
    "mode": "update"
   },
@@ -965,12 +1084,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/c2meforge-0.2.0-forge.9.8-all.jar?v=78f8d30dcf",
    "sha1": "78f8d30dcf2ddff1fd860bc7f0e5f863edeeb5b5",
    "size": 1356938
-  },
-  {
-   "path": "mods/canary-mc1.20.1-0.3.3.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/canary-mc1.20.1-0.3.3.jar?v=898abd9e33",
-   "sha1": "898abd9e337ef1c677ce93f5589497a09c7e9850",
-   "size": 594191
   },
   {
    "path": "mods/CerbonsApi-Forge-1.20.1-1.0.0.jar",

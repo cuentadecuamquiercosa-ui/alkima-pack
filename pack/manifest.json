@@ -1,6 +1,6 @@
 {
  "name": "Alkima",
- "version": "2026.10.10-1137",
+ "version": "2026.10.10-1142",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1122,10 +1122,10 @@
    "size": 20299
   },
   {
-   "path": "mods/collective-1.20.1-8.42.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.42.jar?v=86581d9c67",
-   "sha1": "86581d9c67960360dfe276853497a50524420769",
-   "size": 746095
+   "path": "mods/collective-1.20.1-8.43.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.43.jar?v=caeed0204c",
+   "sha1": "caeed0204cab23171306c5189df36b607b4d733e",
+   "size": 746789
   },
   {
    "path": "mods/Corgilib-Forge-1.20.1-4.0.3.6.jar",

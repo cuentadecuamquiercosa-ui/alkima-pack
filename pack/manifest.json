@@ -1,6 +1,6 @@
 {
  "name": "Alkima",
- "version": "2026.10.10-1142",
+ "version": "2026.10.10-1200",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1092,12 +1092,6 @@
    "size": 134593
   },
   {
-   "path": "mods/chainedwarden-1.0.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/chainedwarden-1.0.0.jar?v=d586292be8",
-   "sha1": "d586292be8aed04ce913ba3168be40b8976aee7e",
-   "size": 113964
-  },
-  {
    "path": "mods/ChunkOpt-1.0.2.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ChunkOpt-1.0.2.jar?v=a682858609",
    "sha1": "a682858609488f4bfe10e7a32b64eca273def337",
@@ -1276,6 +1270,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/entityculling-forge-1.11.3-mc1.20.1.jar?v=d3c513e88e",
    "sha1": "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55",
    "size": 1515076
+  },
+  {
+   "path": "mods/EPR 1.0.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/EPR%201.0.1.jar?v=8d4e0f38f0",
+   "sha1": "8d4e0f38f023f7773ccb0e5d038c1c0b9c7e3c93",
+   "size": 72165
   },
   {
    "path": "mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
@@ -1470,6 +1470,12 @@
    "size": 424035
   },
   {
+   "path": "mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar?v=047ac47549",
+   "sha1": "047ac47549ae0a21b05f70d74bcf436ee0221eef",
+   "size": 73689
+  },
+  {
    "path": "mods/particle_core-0.3.3+1.20.1+forge.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/particle_core-0.3.3%2B1.20.1%2Bforge.jar?v=1da5744853",
    "sha1": "1da5744853d17979033d5ee3cd4251b8340ea7be",
@@ -1500,10 +1506,22 @@
    "size": 181437
   },
   {
+   "path": "mods/PuzzlesLib-v8.1.35-1.20.1-Forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/PuzzlesLib-v8.1.35-1.20.1-Forge.jar?v=b36eaa4369",
+   "sha1": "b36eaa4369cb8aadda09156d5d2c9efbec81266d",
+   "size": 1789960
+  },
+  {
    "path": "mods/Quark-4.0-462.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Quark-4.0-462.jar?v=9b0fb82995",
    "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b",
    "size": 14935230
+  },
+  {
+   "path": "mods/Quick Skin - Forge - 1.20.1-3.1.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Quick%20Skin%20-%20Forge%20-%201.20.1-3.1.0.jar?v=931665ad6a",
+   "sha1": "931665ad6a19aea2de954259cd5bce8b4d12914b",
+   "size": 5375331
   },
   {
    "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
@@ -1680,22 +1698,10 @@
    "size": 492950
   },
   {
-   "path": "resourcepacks/Animated Totems.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Animated%20Totems.zip?v=04c9211ab5",
-   "sha1": "04c9211ab5eb620f92f4c82dd02a250b84141abd",
-   "size": 3077
-  },
-  {
-   "path": "resourcepacks/Chemistry Potions 1.20.1.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Chemistry%20Potions%201.20.1.zip?v=ea93b33e2d",
-   "sha1": "ea93b33e2d04188c7bb0284ecd8effb1ede8c6e9",
-   "size": 34209
-  },
-  {
-   "path": "resourcepacks/EclecticTrove-1.20.1-1.3.0.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/EclecticTrove-1.20.1-1.3.0.zip?v=75ebb00a23",
-   "sha1": "75ebb00a23833419bf4b6042e66068daaf43c1f4",
-   "size": 11977
+   "path": "resourcepacks/Beautiful Potions - MC 1.20.1 - 2.0.0.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Beautiful%20Potions%20-%20MC%201.20.1%20-%202.0.0.zip?v=f2178c012c",
+   "sha1": "f2178c012c2b1551934fee75a057b0895e31310c",
+   "size": 1309024
   },
   {
    "path": "resourcepacks/FA+Player-v1.1.zip",
@@ -1726,12 +1732,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Vida_RPG_Hollow_ResourcePack.zip?v=25050b6b80",
    "sha1": "25050b6b800b7e1b80f2c177d919f024d60b1bce",
    "size": 12246
-  },
-  {
-   "path": "resourcepacks/xali's potion v1.2.0.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/xali%27s%20potion%20v1.2.0.zip?v=bb4c523e36",
-   "sha1": "bb4c523e36bb3b22ae28ae7f9fa911331adf6f4a",
-   "size": 346008
   }
  ]
 }

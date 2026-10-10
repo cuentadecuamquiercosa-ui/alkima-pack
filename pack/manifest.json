@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.10-1641",
+   "date": "10/10/2026",
+   "added": [
+    "Quark-4.0-462"
+   ],
+   "updated": [],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.10.10-1637",
    "date": "10/10/2026",
    "added": [],
@@ -44,7 +54,7 @@
    "other": 0
   }
  ],
- "version": "2026.10.10-1637",
+ "version": "2026.10.10-1641",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1584,6 +1594,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/PuzzlesLib-v8.1.35-1.20.1-Forge.jar?v=b36eaa4369",
    "sha1": "b36eaa4369cb8aadda09156d5d2c9efbec81266d",
    "size": 1789960
+  },
+  {
+   "path": "mods/Quark-4.0-462.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Quark-4.0-462.jar?v=9b0fb82995",
+   "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b",
+   "size": 14935230
   },
   {
    "path": "mods/Quick Skin - Forge - 1.20.1-3.1.0.jar",

@@ -6,6 +6,18 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.10-1623",
+   "date": "10/10/2026",
+   "added": [
+    "crackedwhitelist-1.1.0",
+    "offlinepass-0.1.0",
+    "playeruuiddatarestorer-1.0.1"
+   ],
+   "updated": [],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.10.10-1616",
    "date": "10/10/2026",
    "added": [
@@ -24,7 +36,7 @@
    "other": 0
   }
  ],
- "version": "2026.10.10-1616",
+ "version": "2026.10.10-1623",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1170,6 +1182,12 @@
    "size": 64187
   },
   {
+   "path": "mods/crackedwhitelist-1.1.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/crackedwhitelist-1.1.0.jar?v=6c33d6dd87",
+   "sha1": "6c33d6dd8742d64a67ae4eaab58ef58d452f659b",
+   "size": 27401
+  },
+  {
    "path": "mods/craft_config-1.1.12+1.20.1-forge.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/craft_config-1.1.12%2B1.20.1-forge.jar?v=b8845bb93d",
    "sha1": "b8845bb93dac44e12db275c85c8db0d568f7faaf",
@@ -1506,6 +1524,12 @@
    "size": 424035
   },
   {
+   "path": "mods/offlinepass-0.1.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/offlinepass-0.1.0.jar?v=4443f4e15b",
+   "sha1": "4443f4e15b38958858a06ea6fbc417be9f91d825",
+   "size": 23241
+  },
+  {
    "path": "mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar?v=047ac47549",
    "sha1": "047ac47549ae0a21b05f70d74bcf436ee0221eef",
@@ -1540,6 +1564,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar?v=16808f94a4",
    "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
    "size": 181437
+  },
+  {
+   "path": "mods/playeruuiddatarestorer-1.0.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/playeruuiddatarestorer-1.0.1.jar?v=bbb8e0cea6",
+   "sha1": "bbb8e0cea6d51d59e31b8eb4a2d18a8c08fd28d1",
+   "size": 16558
   },
   {
    "path": "mods/PuzzlesLib-v8.1.35-1.20.1-Forge.jar",

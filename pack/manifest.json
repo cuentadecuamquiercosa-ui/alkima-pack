@@ -6,6 +6,18 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.10-1711",
+   "date": "10/10/2026",
+   "added": [
+    "e4all-forge-2.2.0"
+   ],
+   "updated": [],
+   "removed": [
+    "e4mc-forge-6.2.3"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.10-1649",
    "date": "10/10/2026",
    "added": [],
@@ -64,7 +76,7 @@
    "other": 0
   }
  ],
- "version": "2026.10.10-1649",
+ "version": "2026.10.10-1711",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1282,10 +1294,10 @@
    "size": 402345
   },
   {
-   "path": "mods/e4mc-forge-6.2.3.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/e4mc-forge-6.2.3.jar?v=64beea3eef",
-   "sha1": "64beea3eefd083e7b2b90e8c295cdd2071a40e84",
-   "size": 1300020
+   "path": "mods/e4all-forge-2.2.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/e4all-forge-2.2.0.jar?v=43364899e6",
+   "sha1": "43364899e6cec0dfe8ba6f809e914d523028ec57",
+   "size": 1517644
   },
   {
    "path": "mods/ElysiumAPI-1.20.1-1.1.3.jar",

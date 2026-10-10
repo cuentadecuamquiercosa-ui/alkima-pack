@@ -1,6 +1,30 @@
 {
- "name": "Alkima",
- "version": "2026.10.10-1214",
+ "id": "hardcorev3",
+ "name": "HardcoreV3",
+ "description": "Modpack hardcore de Alkima. Edita este texto en publicar_config.json (campo description).",
+ "icon": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/icon.png?v=c6c4e606",
+ "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
+ "changelog": [
+  {
+   "version": "2026.10.10-1616",
+   "date": "10/10/2026",
+   "added": [
+    "archers-forge-3.1.4+1.20.1",
+    "armor_model_api-forge-1.0.0+1.20.1",
+    "ranged_weapon_api-forge-2.3.4+1.20.1",
+    "smartzombies",
+    "spell_engine-forge-1.10.10+1.20.1",
+    "spell_power-forge-1.6.1+1.20.1",
+    "structure_pool_api-forge-1.2.1+1.20.1"
+   ],
+   "updated": [],
+   "removed": [
+    "Quark-4.0-462"
+   ],
+   "other": 0
+  }
+ ],
+ "version": "2026.10.10-1616",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1020,10 +1044,22 @@
    "size": 260482
   },
   {
+   "path": "mods/archers-forge-3.1.4+1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/archers-forge-3.1.4%2B1.20.1.jar?v=118b023fe1",
+   "sha1": "118b023fe1b89b7fd5a8e00f36388f72db36aab1",
+   "size": 993040
+  },
+  {
    "path": "mods/architectury-9.2.14-forge.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/architectury-9.2.14-forge.jar?v=a52918a500",
    "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
    "size": 580602
+  },
+  {
+   "path": "mods/armor_model_api-forge-1.0.0+1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/armor_model_api-forge-1.0.0%2B1.20.1.jar?v=c5c6613cc3",
+   "sha1": "c5c6613cc3d982fba0e4a378ecbb3ea09d78df23",
+   "size": 86757
   },
   {
    "path": "mods/AsyncParticles-20.1.4.0+1.20.1.jar",
@@ -1512,12 +1548,6 @@
    "size": 1789960
   },
   {
-   "path": "mods/Quark-4.0-462.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Quark-4.0-462.jar?v=9b0fb82995",
-   "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b",
-   "size": 14935230
-  },
-  {
    "path": "mods/Quick Skin - Forge - 1.20.1-3.1.0.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Quick%20Skin%20-%20Forge%20-%201.20.1-3.1.0.jar?v=931665ad6a",
    "sha1": "931665ad6a19aea2de954259cd5bce8b4d12914b",
@@ -1534,6 +1564,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Random%20Events.jar?v=33cbef663c",
    "sha1": "33cbef663c8a25aaf6b4b0b31b5ecef3024fbf28",
    "size": 64218
+  },
+  {
+   "path": "mods/ranged_weapon_api-forge-2.3.4+1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ranged_weapon_api-forge-2.3.4%2B1.20.1.jar?v=57f94d1fb5",
+   "sha1": "57f94d1fb5ec020439b5f814d7f21ceb37953941",
+   "size": 794579
   },
   {
    "path": "mods/realmrpg_quests-0.1.1-forge-1.20.1.jar",
@@ -1596,6 +1632,12 @@
    "size": 5418741
   },
   {
+   "path": "mods/smartzombies.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/smartzombies.jar?v=6d9cb683a2",
+   "sha1": "6d9cb683a2df7d6546bf436dc2c26de456ed3daf",
+   "size": 14080
+  },
+  {
    "path": "mods/smoothchunk-1.20.1-4.1.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/smoothchunk-1.20.1-4.1.jar?v=3e142e4a2e",
    "sha1": "3e142e4a2e12db1c9a3777879cc021aff49da088",
@@ -1620,10 +1662,28 @@
    "size": 3114590
   },
   {
+   "path": "mods/spell_engine-forge-1.10.10+1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/spell_engine-forge-1.10.10%2B1.20.1.jar?v=091f75239a",
+   "sha1": "091f75239af7503c1960e3fa197021b5c5694d4b",
+   "size": 5317252
+  },
+  {
+   "path": "mods/spell_power-forge-1.6.1+1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/spell_power-forge-1.6.1%2B1.20.1.jar?v=11073d202f",
+   "sha1": "11073d202f70e543d46ceda95e264652ebafd558",
+   "size": 233501
+  },
+  {
    "path": "mods/structure_layout_optimizer-forge-1.0.11.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/structure_layout_optimizer-forge-1.0.11.jar?v=c2f2d42c98",
    "sha1": "c2f2d42c987a611c6a14769ec02099e3439dc0f3",
    "size": 246413
+  },
+  {
+   "path": "mods/structure_pool_api-forge-1.2.1+1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/structure_pool_api-forge-1.2.1%2B1.20.1.jar?v=4a90478fd7",
+   "sha1": "4a90478fd7c3cd0f4321ca3e9a2f4baec11d84c1",
+   "size": 761800
   },
   {
    "path": "mods/stuffaintcheap-1.20.1-1.1.0.jar",

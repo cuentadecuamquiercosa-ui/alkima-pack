@@ -1,0 +1,13 @@
+
+[regulador_de_fps]
+	#Baja/sube sola la distancia de renderizado de entidades segun tus FPS
+	enabled = true
+	#FPS que quieres mantener como minimo
+	#Range: 20 ~ 240
+	targetFps = 40
+	#Reduce el uso de CPU cuando la ventana del juego no esta en primer plano
+	backgroundThrottle = true
+	#Milisegundos de pausa por fotograma en segundo plano
+	#Range: 20 ~ 500
+	backgroundSleepMs = 100
+

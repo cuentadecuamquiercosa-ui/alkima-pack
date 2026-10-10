@@ -1,0 +1,23 @@
+
+[limpieza_de_objetos]
+	#Limpia objetos tirados en el suelo cuando hay demasiados
+	enabled = true
+	#Cada cuantos segundos se revisa (avisa 10 s antes)
+	#Range: 60 ~ 3600
+	intervalSeconds = 300
+	#Solo limpia si hay MAS objetos que esto en la dimension
+	#Range: 20 ~ 5000
+	onlyIfMoreThan = 150
+	#No toca objetos con menos segundos de antiguedad (protege el loot recien soltado)
+	#Range: 10 ~ 1200
+	minAgeSeconds = 120
+
+[limite_de_mobs]
+	#Impide que aparezcan mas mobs en un chunk que el limite
+	enabled = true
+	#Maximo de mobs (sin nombre ni persistentes) por chunk
+	#Range: 4 ~ 200
+	maxPerChunk = 20
+	#Si es false solo se limitan monstruos/ambientales; los animales (granjas) no
+	alsoLimitPassiveAnimals = false
+

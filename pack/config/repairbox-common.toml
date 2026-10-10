@@ -1,0 +1,7 @@
+
+[repair_box]
+	#Lista de materiales y su valor de reparacion. Formato: modid:item=value
+	ore_repair_values = ["minecraft:copper_ingot=10", "minecraft:copper_block=90", "minecraft:gold_ingot=20", "minecraft:gold_block=180", "minecraft:iron_ingot=30", "minecraft:iron_block=270", "minecraft:emerald=45", "minecraft:emerald_block=405", "minecraft:diamond=50", "minecraft:diamond_block=450", "minecraft:netherite_ingot=500", "minecraft:netherite_block=4500"]
+	#Lista negra de items que no deben repararse. Formato: modid:item
+	blacklist_items = []
+

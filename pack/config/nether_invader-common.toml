@@ -1,0 +1,12 @@
+#Add what Nether reactor spawn the mobs [example: minecraft:chicken]
+"Nether Reactor Spawn Whitelist" = ["minecraft:piglin", "minecraft:zombified_piglin"]
+#Add what Nether reactor spawn the mobs but rare [example: minecraft:chicken]
+"Nether Reactor Spawn Rare Whitelist" = ["minecraft:piglin_brute"]
+#Make Enable Nether Reactor feature by default(If you want to set it individually, turn this off, restart, and set it again in Experimental Feature.)
+"Enable Nether Reactor feature by default" = false
+#Change How long does Nether Reactor take to be deactivated
+#Range: 0 ~ 36000
+"Nether Reactor Deactive Time" = 3600
+#Nether Now Spawn in overworld but Not a complete rewrite to the Nether
+"Nether Spawn In Overworld" = true
+

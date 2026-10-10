@@ -1,10 +1,20 @@
 {
  "id": "hardcorev3",
  "name": "HardcoreV3",
- "description": "Modpack hardcore de Alkima. Edita este texto en publicar_config.json (campo description).",
+ "description": "ACTUALIZaCIONES",
  "icon": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/icon.png?v=c6c4e606",
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
+  {
+   "version": "2026.10.10-1649",
+   "date": "10/10/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "offlinepass-0.1.0"
+   ],
+   "other": 0
+  },
   {
    "version": "2026.10.10-1641",
    "date": "10/10/2026",
@@ -54,7 +64,7 @@
    "other": 0
   }
  ],
- "version": "2026.10.10-1641",
+ "version": "2026.10.10-1649",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1540,12 +1550,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar?v=9eab28baff",
    "sha1": "9eab28baff36942e1c924489e34753df10f40208",
    "size": 424035
-  },
-  {
-   "path": "mods/offlinepass-0.1.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/offlinepass-0.1.0.jar?v=4443f4e15b",
-   "sha1": "4443f4e15b38958858a06ea6fbc417be9f91d825",
-   "size": 23241
   },
   {
    "path": "mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar",

@@ -1,6 +1,6 @@
 {
  "name": "Alkima",
- "version": "2026.10.10-1200",
+ "version": "2026.10.10-1214",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1704,10 +1704,28 @@
    "size": 1309024
   },
   {
+   "path": "resourcepacks/Better Dark Tooltips.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Better%20Dark%20Tooltips.zip?v=aad0e4c61b",
+   "sha1": "aad0e4c61b32ff731b94c51a0040c0fabf595d53",
+   "size": 4394
+  },
+  {
+   "path": "resourcepacks/Better Mob Models 1.2.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Better%20Mob%20Models%201.2.zip?v=24731c6c30",
+   "sha1": "24731c6c309f0a60165b9b2b0e99160ec2558c0c",
+   "size": 161625
+  },
+  {
    "path": "resourcepacks/FA+Player-v1.1.zip",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/FA%2BPlayer-v1.1.zip?v=122e397af1",
    "sha1": "122e397af111e3dc5fb6b60004aad9464980f13a",
    "size": 110203
+  },
+  {
+   "path": "resourcepacks/FFI 1.20+ 1.1.16.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/FFI%201.20%2B%201.1.16.zip?v=9a138663b5",
+   "sha1": "9a138663b539a22711eb0a577f06689eb781002d",
+   "size": 4784242
   },
   {
    "path": "resourcepacks/JefeFinal_ResourcePack.zip",
@@ -1722,6 +1740,12 @@
    "size": 266434
   },
   {
+   "path": "resourcepacks/Torrezx-Better_boss_x.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Torrezx-Better_boss_x.zip?v=9197d0fa6d",
+   "sha1": "9197d0fa6d2343109ec632e1c3e658fdd29e8945",
+   "size": 14009
+  },
+  {
    "path": "resourcepacks/TrajeRadiacion_ResourcePack.zip",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/TrajeRadiacion_ResourcePack.zip?v=ab92d1d27f",
    "sha1": "ab92d1d27f0d6e567f7fdb504de9cfc015736008",
@@ -1732,6 +1756,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Vida_RPG_Hollow_ResourcePack.zip?v=25050b6b80",
    "sha1": "25050b6b800b7e1b80f2c177d919f024d60b1bce",
    "size": 12246
+  },
+  {
+   "path": "resourcepacks/\u00a76Chest \u00a7fof \u00a7b\u00a7lTranslations\u00a760.5\u00a7r.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/%C2%A76Chest%20%C2%A7fof%20%C2%A7b%C2%A7lTranslations%C2%A760.5%C2%A7r.zip?v=b9f466fcb6",
+   "sha1": "b9f466fcb64b217f6ad918d393defa868367254a",
+   "size": 269228
   }
  ]
 }

@@ -6,6 +6,14 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.10-1939",
+   "date": "10/10/2026",
+   "added": [],
+   "updated": [],
+   "removed": [],
+   "other": 3
+  },
+  {
    "version": "2026.10.10-1937",
    "date": "10/10/2026",
    "added": [
@@ -87,7 +95,7 @@
    "other": 0
   }
  ],
- "version": "2026.10.10-1937",
+ "version": "2026.10.10-1939",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1881,10 +1889,22 @@
    "size": 14844
   },
   {
+   "path": "resourcepacks/Low Fire.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Low%20Fire.zip?v=0f8e2e5f6e",
+   "sha1": "0f8e2e5f6eb9f1e2fe35da7a7a0a355760998021",
+   "size": 42116
+  },
+  {
    "path": "resourcepacks/Quark Programmer Art.zip",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Quark%20Programmer%20Art.zip?v=2f4cadbbae",
    "sha1": "2f4cadbbaeffec5f2811b34e053450a930626c15",
    "size": 266434
+  },
+  {
+   "path": "resourcepacks/Teto Totem [Tetom].zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Teto%20Totem%20%5BTetom%5D.zip?v=1cb467494f",
+   "sha1": "1cb467494f9b28202427889e978aa6cf9903a8ec",
+   "size": 388738
   },
   {
    "path": "resourcepacks/Torrezx-Better_boss_x.zip",
@@ -1909,6 +1929,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/%C2%A76Chest%20%C2%A7fof%20%C2%A7b%C2%A7lTranslations%C2%A760.5%C2%A7r.zip?v=b9f466fcb6",
    "sha1": "b9f466fcb64b217f6ad918d393defa868367254a",
    "size": 269228
+  },
+  {
+   "path": "resourcepacks/\u00a7eTorches\u00a78-\u00a7eReimagined\u00a70_\u00a78[v1.8]\u00a70.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/%C2%A7eTorches%C2%A78-%C2%A7eReimagined%C2%A70_%C2%A78%5Bv1.8%5D%C2%A70.zip?v=06032557b8",
+   "sha1": "06032557b84a41a28e3473f483b34cb6737002b0",
+   "size": 188176
   }
  ]
 }

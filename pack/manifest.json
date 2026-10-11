@@ -6,6 +6,23 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.11-1103",
+   "date": "11/10/2026",
+   "added": [
+    "ReworkedPhantoms-1.2.5+Forge-1.19.4",
+    "SimpleCustomEarlyLoading-2.2-forge",
+    "enemyexpansion-2.3.1-forge-1.20.1",
+    "explosiveenhancement-1.2.0",
+    "shieldexp-forge-1.20.1-1.3.7",
+    "xptome-1.20.1-2.2.1"
+   ],
+   "updated": [],
+   "removed": [
+    "Random Events"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.10-2136",
    "date": "10/10/2026",
    "added": [
@@ -103,27 +120,9 @@
    "updated": [],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.10.10-1616",
-   "date": "10/10/2026",
-   "added": [
-    "archers-forge-3.1.4+1.20.1",
-    "armor_model_api-forge-1.0.0+1.20.1",
-    "ranged_weapon_api-forge-2.3.4+1.20.1",
-    "smartzombies",
-    "spell_engine-forge-1.10.10+1.20.1",
-    "spell_power-forge-1.6.1+1.20.1",
-    "structure_pool_api-forge-1.2.1+1.20.1"
-   ],
-   "updated": [],
-   "removed": [
-    "Quark-4.0-462"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.10.10-2136",
+ "version": "2026.10.11-1103",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1401,6 +1400,12 @@
    "size": 889634
   },
   {
+   "path": "mods/enemyexpansion-2.3.1-forge-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/enemyexpansion-2.3.1-forge-1.20.1.jar?v=f21c0b1589",
+   "sha1": "f21c0b158990b480fcebf6c6cc91434e02fb8a1c",
+   "size": 1006273
+  },
+  {
    "path": "mods/Enhanced-Celestials-forge-1.20.1-5.0.3.3.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Enhanced-Celestials-forge-1.20.1-5.0.3.3.jar?v=3a7ac29b6e",
    "sha1": "3a7ac29b6e3561b34fd68d9c140de89319462213",
@@ -1429,6 +1434,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/EPR%201.0.1.jar?v=8d4e0f38f0",
    "sha1": "8d4e0f38f023f7773ccb0e5d038c1c0b9c7e3c93",
    "size": 72165
+  },
+  {
+   "path": "mods/explosiveenhancement-1.2.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/explosiveenhancement-1.2.0.jar?v=35cf80849a",
+   "sha1": "35cf80849ac4b19416cadc12cf10de34295e51f5",
+   "size": 97476
   },
   {
    "path": "mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
@@ -1707,12 +1718,6 @@
    "size": 713454
   },
   {
-   "path": "mods/Random Events.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Random%20Events.jar?v=33cbef663c",
-   "sha1": "33cbef663c8a25aaf6b4b0b31b5ecef3024fbf28",
-   "size": 64218
-  },
-  {
    "path": "mods/ranged_weapon_api-forge-2.3.4+1.20.1.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ranged_weapon_api-forge-2.3.4%2B1.20.1.jar?v=57f94d1fb5",
    "sha1": "57f94d1fb5ec020439b5f814d7f21ceb37953941",
@@ -1749,6 +1754,12 @@
    "size": 432753
   },
   {
+   "path": "mods/ReworkedPhantoms-1.2.5+Forge-1.19.4.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ReworkedPhantoms-1.2.5%2BForge-1.19.4.jar?v=63eb6fafe5",
+   "sha1": "63eb6fafe5a8a2d616875a422d2f7a8f8d93d464",
+   "size": 27150
+  },
+  {
    "path": "mods/saturn-mc1.20.1-0.1.3.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/saturn-mc1.20.1-0.1.3.jar?v=ad93f99d46",
    "sha1": "ad93f99d46714c46aaa6a4409aeca506e9fcac99",
@@ -1761,10 +1772,22 @@
    "size": 61395
   },
   {
+   "path": "mods/shieldexp-forge-1.20.1-1.3.7.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/shieldexp-forge-1.20.1-1.3.7.jar?v=087e0e3486",
+   "sha1": "087e0e34864dc4f077d78026b58d440859591b37",
+   "size": 419824
+  },
+  {
    "path": "mods/shulkerboxtooltip-forge-4.0.4+1.20.1.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/shulkerboxtooltip-forge-4.0.4%2B1.20.1.jar?v=f6d7615ac5",
    "sha1": "f6d7615ac5349fc1625cd2941a5d861c52428a0b",
    "size": 221124
+  },
+  {
+   "path": "mods/SimpleCustomEarlyLoading-2.2-forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/SimpleCustomEarlyLoading-2.2-forge.jar?v=a83aad1b6b",
+   "sha1": "a83aad1b6b882ccaaf658d8b82628324a55dffb6",
+   "size": 895996
   },
   {
    "path": "mods/simplyswords-forge-neoforge-1.70.2-1.20.1.jar",
@@ -1891,6 +1914,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/wither_drops_netherite_templates_1.0.0_forge_1.20.1.jar?v=5b4d5ffd35",
    "sha1": "5b4d5ffd358f096e130e6900198fb94d321078fa",
    "size": 9951
+  },
+  {
+   "path": "mods/xptome-1.20.1-2.2.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/xptome-1.20.1-2.2.1.jar?v=078831ad10",
+   "sha1": "078831ad10ea6fa5750e3c6049915beca8401a88",
+   "size": 22972
   },
   {
    "path": "mods/zaynens_craftable_slimeball_mod_1.20.1.jar",

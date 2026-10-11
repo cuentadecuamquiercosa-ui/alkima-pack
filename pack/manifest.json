@@ -6,6 +6,17 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.10-1937",
+   "date": "10/10/2026",
+   "added": [
+    "smoothswapping-0.9.3.2-1.20.1-forge",
+    "zaynens_craftable_slimeball_mod_1.20.1"
+   ],
+   "updated": [],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.10.10-1711",
    "date": "10/10/2026",
    "added": [
@@ -76,7 +87,7 @@
    "other": 0
   }
  ],
- "version": "2026.10.10-1711",
+ "version": "2026.10.10-1937",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1714,6 +1725,12 @@
    "size": 14249
   },
   {
+   "path": "mods/smoothswapping-0.9.3.2-1.20.1-forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/smoothswapping-0.9.3.2-1.20.1-forge.jar?v=bddc0e2f6a",
+   "sha1": "bddc0e2f6a2de47c1416ed3adcb8e7b1048e2791",
+   "size": 60843
+  },
+  {
    "path": "mods/sophisticatedbackpacks-1.20.1-3.26.9.2194.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/sophisticatedbackpacks-1.20.1-3.26.9.2194.jar?v=e8e9e19257",
    "sha1": "e8e9e19257c2a161439ff6ba9119f720f09e39c9",
@@ -1808,6 +1825,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/wither_drops_netherite_templates_1.0.0_forge_1.20.1.jar?v=5b4d5ffd35",
    "sha1": "5b4d5ffd358f096e130e6900198fb94d321078fa",
    "size": 9951
+  },
+  {
+   "path": "mods/zaynens_craftable_slimeball_mod_1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/zaynens_craftable_slimeball_mod_1.20.1.jar?v=66cc6ac3fa",
+   "sha1": "66cc6ac3fad8cb8c2e33c8b82285b3a04542d540",
+   "size": 5500
   },
   {
    "path": "mods/Zeta-1.0-31.jar",

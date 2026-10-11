@@ -6,6 +6,18 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.10-2020",
+   "date": "10/10/2026",
+   "added": [
+    "jei-1.20.1-forge-15.56.0.205",
+    "jei_plus_plus-1.0.7-1.20.1",
+    "journeymap-forge-1.20.1-6.0.7"
+   ],
+   "updated": [],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.10.10-1939",
    "date": "10/10/2026",
    "added": [],
@@ -95,7 +107,7 @@
    "other": 0
   }
  ],
- "version": "2026.10.10-1939",
+ "version": "2026.10.10-2020",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1497,6 +1509,24 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Jadens-Nether-Expansion-2.3.5.jar?v=bfb10b56cb",
    "sha1": "bfb10b56cb5dcc34f3643472aa09bc4120808d31",
    "size": 23488061
+  },
+  {
+   "path": "mods/jei-1.20.1-forge-15.56.0.205.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/jei-1.20.1-forge-15.56.0.205.jar?v=7f64b7f8fd",
+   "sha1": "7f64b7f8fde7f001ef054dabe3618a8780ba2650",
+   "size": 1778129
+  },
+  {
+   "path": "mods/jei_plus_plus-1.0.7-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/jei_plus_plus-1.0.7-1.20.1.jar?v=307f3bc9e1",
+   "sha1": "307f3bc9e1eb7c6a4b2c2fa6afece2420e9080d6",
+   "size": 368032
+  },
+  {
+   "path": "mods/journeymap-forge-1.20.1-6.0.7.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/journeymap-forge-1.20.1-6.0.7.jar?v=fb9411d6d5",
+   "sha1": "fb9411d6d516f604a8fa63ba505205d813d7caa1",
+   "size": 4353808
   },
   {
    "path": "mods/just_parry-2.5-forg-1.20.1.jar",

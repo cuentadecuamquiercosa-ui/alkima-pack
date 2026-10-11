@@ -6,6 +6,14 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.11-1109",
+   "date": "11/10/2026",
+   "added": [],
+   "updated": [],
+   "removed": [],
+   "other": 9
+  },
+  {
    "version": "2026.10.11-1103",
    "date": "11/10/2026",
    "added": [
@@ -108,21 +116,9 @@
    "updated": [],
    "removed": [],
    "other": 3
-  },
-  {
-   "version": "2026.10.10-1623",
-   "date": "10/10/2026",
-   "added": [
-    "crackedwhitelist-1.1.0",
-    "offlinepass-0.1.0",
-    "playeruuiddatarestorer-1.0.1"
-   ],
-   "updated": [],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.10.11-1103",
+ "version": "2026.10.11-1109",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -208,6 +204,13 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/alkima_optimizer-common.toml?v=8e9a55a475",
    "sha1": "8e9a55a4750f379467c873816d40b4e6ba048df8",
    "size": 735,
+   "mode": "update"
+  },
+  {
+   "path": "config/AlkimaLoading_Preset.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/AlkimaLoading_Preset.zip?v=f8a6c03cd5",
+   "sha1": "f8a6c03cd55ee61c86a42e12371888f7e289a99d",
+   "size": 994178,
    "mode": "update"
   },
   {
@@ -582,6 +585,13 @@
    "mode": "update"
   },
   {
+   "path": "config/fondo_original.png",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/fondo_original.png?v=1b9ff996c5",
+   "sha1": "1b9ff996c55803346d923c346839ef2b741479b8",
+   "size": 166053,
+   "mode": "update"
+  },
+  {
    "path": "config/forge-client.toml",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/forge-client.toml?v=55e80f51f0",
    "sha1": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1",
@@ -593,6 +603,13 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/fzzy_config/keybinds.toml?v=f808afa706",
    "sha1": "f808afa706d9a4934612b20e1efd513416a0e8f1",
    "size": 6403,
+   "mode": "update"
+  },
+  {
+   "path": "config/generar_imagenes.py",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/generar_imagenes.py?v=334752afc3",
+   "sha1": "334752afc391688f637749f3f0366ba8c5304630",
+   "size": 4235,
    "mode": "update"
   },
   {
@@ -684,6 +701,13 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/justparry/justparry_server.toml?v=550d2c8026",
    "sha1": "550d2c8026dc5f1a4c1ad5d7804efbe37cf2b653",
    "size": 3862,
+   "mode": "update"
+  },
+  {
+   "path": "config/LEEME.txt",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/LEEME.txt?v=4b67faa65a",
+   "sha1": "4b67faa65adb058d274e894acf52a2b12a93ee03",
+   "size": 2814,
    "mode": "update"
   },
   {
@@ -880,6 +904,34 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/saturn-optimizations.toml?v=17fb4fe9d0",
    "sha1": "17fb4fe9d04bcbe01b3a569885c510bf5168cc7e",
    "size": 445,
+   "mode": "update"
+  },
+  {
+   "path": "config/simple-custom-early-loading/background.png",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/simple-custom-early-loading/background.png?v=8c39a80886",
+   "sha1": "8c39a80886b5d18973253128caaf71fd5b4f3276",
+   "size": 613874,
+   "mode": "update"
+  },
+  {
+   "path": "config/simple-custom-early-loading/cargando.png",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/simple-custom-early-loading/cargando.png?v=3a44401e3b",
+   "sha1": "3a44401e3b966f7763ba33b441073d49dea18f0e",
+   "size": 5846,
+   "mode": "update"
+  },
+  {
+   "path": "config/simple-custom-early-loading/logo.png",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/simple-custom-early-loading/logo.png?v=9c99a471a2",
+   "sha1": "9c99a471a285f1e6316b568072681dad8f5f818d",
+   "size": 205069,
+   "mode": "update"
+  },
+  {
+   "path": "config/simple-custom-early-loading.json",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/simple-custom-early-loading.json?v=c12881713b",
+   "sha1": "c12881713b1fd5778ca8941ff78bd42aaf4e0777",
+   "size": 1419,
    "mode": "update"
   },
   {
@@ -1944,6 +1996,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/zombiesmore-2.1.5-forge-1.20.1.jar?v=4018970fb6",
    "sha1": "4018970fb6024a3848d98c432b7b54b95b9afcca",
    "size": 492950
+  },
+  {
+   "path": "resourcepacks/AlkimaMuertes_Resourcepack.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/AlkimaMuertes_Resourcepack.zip?v=22551fb653",
+   "sha1": "22551fb65368f9c1c1bce7830db447900eb73b32",
+   "size": 18563
   },
   {
    "path": "resourcepacks/Better Mob Models 1.2.zip",

@@ -1,0 +1,41 @@
+ALKIMA - preset de pantalla de carga (Simple Custom Early Loading, Forge 1.20.1)
+================================================================================
+
+IMPORTANTE: este mod NO usa un archivo .toml para el diseño. Su configuracion es un .json
+(config/simple-custom-early-loading.json) mas una carpeta de imagenes. El unico .toml que interviene es
+config/fml.toml, y en Forge debe quedarse con su valor por defecto.
+
+INSTALAR
+  1) Pon el .jar de Simple Custom Early Loading (version Forge 1.20.1, v2.2) en la carpeta mods de tu instancia.
+  2) Copia la carpeta "config" de este zip DENTRO de la carpeta de tu instancia (se fusiona con la que ya tienes):
+        config/simple-custom-early-loading.json
+        config/simple-custom-early-loading/background.png
+        config/simple-custom-early-loading/logo.png
+        config/simple-custom-early-loading/cargando.png
+  3) Revisa config/fml.toml (en Forge debe decir exactamente):
+        earlyWindowProvider = "fmlearlywindow"
+     Opcional, para que arranque en ventana maximizada:  earlyWindowMaximized = true
+  4) Opcional: en options.txt pon  darkMojangStudiosBackground:true  para que el parpadeo inicial rojo/blanco sea negro.
+  5) Abre Minecraft. Para repartirlo a tus amigos: PUBLICAR.bat (el .json y las imagenes viajan en config/).
+
+QUE ES CADA IMAGEN
+  background.png  fondo oscuro con viñeta y bordes rojos inclinados (usa fondo_original.png, tu imagen)
+  logo.png        logo ALKIMA con resplandor rojo (y subtitulo)
+  cargando.png    texto CARGANDO encima de la barra
+
+PERSONALIZAR
+  - Cambiar textos, colores o el fondo: edita las constantes de generar_imagenes.py y ejecutalo (python generar_imagenes.py).
+    Si tienes un logo propio, reemplaza config/simple-custom-early-loading/logo.png (PNG con fondo transparente).
+  - Mover cosas: edita las "position" del .json (position_anchor, x, y en PERCENTAGE; width/height).
+  - Barra de progreso: "progress_bar": null la quita; "bar_count" cambia cuantas barras hay.
+  - Interruptores del .json: performance_bar, fox (solo NeoForge), log_messages (texto de abajo a la izquierda), forge_version.
+    Aqui estan todos en false para dejarlo limpio; pon log_messages en true si necesitas ver que esta cargando.
+
+LIMITES DEL MOD
+  - El logo de Mojang no se puede quitar.
+  - El color de la barra de progreso no es configurable (la dibuja el mod).
+  - Al arrancar puede verse un instante la pantalla roja/blanca original antes de aplicar el diseño (viene del mod).
+  - La imagen de fondo es una captura de FNaF 4 (con copyright): uso privado entre amigos; cambiala por arte propio si lo compartes.
+
+NO PROBADO: no pude abrir Minecraft desde aqui; el .json y las rutas siguen la documentacion oficial del mod.
+La vista previa es aproximada (la barra real la dibuja el mod con su propio estilo).

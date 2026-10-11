@@ -1,0 +1,57 @@
+// Preset "Alkima" para Simple Custom Early Loading (Forge 1.20.1)
+// Imagenes en: config/simple-custom-early-loading/   (se generan con generar_imagenes.py)
+{
+  "elements": [
+    // el orden importa: lo ultimo se dibuja encima
+    {
+      // fondo oscuro con vineta y bordes rojos inclinados
+      "image": "background.png",
+      "position": {
+        "position_anchor": "TOP_LEFT",
+        "position_unit": "PIXELS",
+        "x": 0,
+        "y": 0,
+        "size_unit": "PERCENTAGE",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      // logo ALKIMA con resplandor rojo, centrado al 40% de la altura
+      "image": "logo.png",
+      "position": {
+        "position_anchor": "CENTER",
+        "position_unit": "PERCENTAGE",
+        "x": 50,
+        "y": 40,
+        "size_unit": "PERCENTAGE",
+        "width": 60
+      }
+    },
+    {
+      // texto "CARGANDO" justo encima de la barra
+      "image": "cargando.png",
+      "position": {
+        "position_anchor": "BOTTOM_CENTER",
+        "position_unit": "PERCENTAGE",
+        "x": 50,
+        "y": 62,
+        "size_unit": "PERCENTAGE",
+        "width": 18
+      }
+    }
+  ],
+  "progress_bar": {
+    "bar_count": 3,
+    "position": {
+      "position_anchor": "TOP_CENTER",
+      "position_unit": "PERCENTAGE",
+      "x": 50,
+      "y": 66
+    }
+  },
+  "performance_bar": false,
+  "fox": false,
+  "log_messages": false,
+  "forge_version": false
+}

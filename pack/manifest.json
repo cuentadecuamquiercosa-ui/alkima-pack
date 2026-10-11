@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.11-1659",
+   "date": "11/10/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "challengemenu-1.0.0"
+   ],
+   "other": 1
+  },
+  {
    "version": "2026.10.11-1656",
    "date": "11/10/2026",
    "added": [
@@ -109,19 +119,9 @@
     "e4mc-forge-6.2.3"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.10-1649",
-   "date": "10/10/2026",
-   "added": [],
-   "updated": [],
-   "removed": [
-    "offlinepass-0.1.0"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.10.11-1656",
+ "version": "2026.10.11-1659",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1293,12 +1293,6 @@
    "size": 134593
   },
   {
-   "path": "mods/challengemenu-1.0.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/challengemenu-1.0.0.jar?v=8b51ec6b9d",
-   "sha1": "8b51ec6b9d9ac1c80f67687e575afa80fc6e6c34",
-   "size": 132704
-  },
-  {
    "path": "mods/ChunkOpt-1.0.2.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ChunkOpt-1.0.2.jar?v=a682858609",
    "sha1": "a682858609488f4bfe10e7a32b64eca273def337",
@@ -2035,12 +2029,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Chemistry%20Potions%201.20.1.zip?v=ea93b33e2d",
    "sha1": "ea93b33e2d04188c7bb0284ecd8effb1ede8c6e9",
    "size": 34209
-  },
-  {
-   "path": "resourcepacks/Desafio_UI_ResourcePack.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Desafio_UI_ResourcePack.zip?v=6446455ff8",
-   "sha1": "6446455ff809380c59c85d6d888e142378d71dbb",
-   "size": 6133608
   },
   {
    "path": "resourcepacks/FA+Player-v1.1.zip",

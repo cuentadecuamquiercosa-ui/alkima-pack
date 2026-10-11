@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.11-1656",
+   "date": "11/10/2026",
+   "added": [
+    "challengemenu-1.0.0"
+   ],
+   "updated": [],
+   "removed": [],
+   "other": 3
+  },
+  {
    "version": "2026.10.11-1410",
    "date": "11/10/2026",
    "added": [
@@ -109,19 +119,9 @@
     "offlinepass-0.1.0"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.10-1641",
-   "date": "10/10/2026",
-   "added": [
-    "Quark-4.0-462"
-   ],
-   "updated": [],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.10.11-1410",
+ "version": "2026.10.11-1656",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1293,6 +1293,12 @@
    "size": 134593
   },
   {
+   "path": "mods/challengemenu-1.0.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/challengemenu-1.0.0.jar?v=8b51ec6b9d",
+   "sha1": "8b51ec6b9d9ac1c80f67687e575afa80fc6e6c34",
+   "size": 132704
+  },
+  {
    "path": "mods/ChunkOpt-1.0.2.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ChunkOpt-1.0.2.jar?v=a682858609",
    "sha1": "a682858609488f4bfe10e7a32b64eca273def337",
@@ -2031,6 +2037,12 @@
    "size": 34209
   },
   {
+   "path": "resourcepacks/Desafio_UI_ResourcePack.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Desafio_UI_ResourcePack.zip?v=6446455ff8",
+   "sha1": "6446455ff809380c59c85d6d888e142378d71dbb",
+   "size": 6133608
+  },
+  {
    "path": "resourcepacks/FA+Player-v1.1.zip",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/FA%2BPlayer-v1.1.zip?v=122e397af1",
    "sha1": "122e397af111e3dc5fb6b60004aad9464980f13a",
@@ -2071,18 +2083,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Torrezx-Better_boss_x.zip?v=9197d0fa6d",
    "sha1": "9197d0fa6d2343109ec632e1c3e658fdd29e8945",
    "size": 14009
-  },
-  {
-   "path": "resourcepacks/TrajeRadiacion_ResourcePack.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/TrajeRadiacion_ResourcePack.zip?v=ab92d1d27f",
-   "sha1": "ab92d1d27f0d6e567f7fdb504de9cfc015736008",
-   "size": 13466
-  },
-  {
-   "path": "resourcepacks/Vida_RPG_Hollow_ResourcePack.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Vida_RPG_Hollow_ResourcePack.zip?v=25050b6b80",
-   "sha1": "25050b6b800b7e1b80f2c177d919f024d60b1bce",
-   "size": 12246
   },
   {
    "path": "resourcepacks/\u00a76Chest \u00a7fof \u00a7b\u00a7lTranslations\u00a760.5\u00a7r.zip",

@@ -6,6 +6,17 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.11-1410",
+   "date": "11/10/2026",
+   "added": [
+    "iammusicplayer-forge-mc1.20-3.22.0-alpha.5",
+    "otyacraftengine-forge-mc1.20-3.7.0-alpha.2"
+   ],
+   "updated": [],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.10.11-1109",
    "date": "11/10/2026",
    "added": [],
@@ -108,17 +119,9 @@
    "updated": [],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.10.10-1637",
-   "date": "10/10/2026",
-   "added": [],
-   "updated": [],
-   "removed": [],
-   "other": 3
   }
  ],
- "version": "2026.10.11-1109",
+ "version": "2026.10.11-1410",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1560,6 +1563,12 @@
    "size": 96497
   },
   {
+   "path": "mods/iammusicplayer-forge-mc1.20-3.22.0-alpha.5.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/iammusicplayer-forge-mc1.20-3.22.0-alpha.5.jar?v=f2b3253112",
+   "sha1": "f2b32531122f07d53f12159f680b4777606ef6ce",
+   "size": 10932092
+  },
+  {
    "path": "mods/IBOMD v1.0.0-1.20.1.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/IBOMD%20v1.0.0-1.20.1.jar?v=c5392b75d5",
    "sha1": "c5392b75d584760d478b9b297cfda37eab7fd0d4",
@@ -1702,6 +1711,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar?v=9eab28baff",
    "sha1": "9eab28baff36942e1c924489e34753df10f40208",
    "size": 424035
+  },
+  {
+   "path": "mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar?v=4c12943784",
+   "sha1": "4c129437845f8d808ee56663fb7413dfed2f8daf",
+   "size": 655951
   },
   {
    "path": "mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar",

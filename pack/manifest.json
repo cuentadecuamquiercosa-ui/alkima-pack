@@ -6,6 +6,22 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.10-2136",
+   "date": "10/10/2026",
+   "added": [
+    "Boss Music Mod 1.20.x v1.2.1",
+    "boss_checklist-forge-5.2.0",
+    "collective-1.20.1-8.44",
+    "modernfix-forge-5.27.88+mc1.20.1"
+   ],
+   "updated": [],
+   "removed": [
+    "collective-1.20.1-8.43",
+    "modernfix-forge-5.27.87+mc1.20.1"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.10-2020",
    "date": "10/10/2026",
    "added": [
@@ -107,7 +123,7 @@
    "other": 0
   }
  ],
- "version": "2026.10.10-2020",
+ "version": "2026.10.10-2136",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1193,6 +1209,18 @@
    "size": 1751110
   },
   {
+   "path": "mods/Boss Music Mod 1.20.x v1.2.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Boss%20Music%20Mod%201.20.x%20v1.2.1.jar?v=4fb5935f1d",
+   "sha1": "4fb5935f1df17a135e448d6ec4e339f14b2c2361",
+   "size": 9019150
+  },
+  {
+   "path": "mods/boss_checklist-forge-5.2.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/boss_checklist-forge-5.2.0.jar?v=5f225a6a59",
+   "sha1": "5f225a6a59f31b02a3c279c9b70b04320445653a",
+   "size": 877492
+  },
+  {
    "path": "mods/brutalbosses-1.20.1-8.5.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/brutalbosses-1.20.1-8.5.jar?v=f3f9cb549d",
    "sha1": "f3f9cb549dd79b7ba5ec933a5bc4b6015ebf0cad",
@@ -1235,10 +1263,10 @@
    "size": 20299
   },
   {
-   "path": "mods/collective-1.20.1-8.43.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.43.jar?v=caeed0204c",
-   "sha1": "caeed0204cab23171306c5189df36b607b4d733e",
-   "size": 746789
+   "path": "mods/collective-1.20.1-8.44.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.44.jar?v=bd8b8f3ac9",
+   "sha1": "bd8b8f3ac933948527b8ff5ba71b2344f71d7dae",
+   "size": 746884
   },
   {
    "path": "mods/Corgilib-Forge-1.20.1-4.0.3.6.jar",
@@ -1565,10 +1593,10 @@
    "size": 27943
   },
   {
-   "path": "mods/modernfix-forge-5.27.87+mc1.20.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/modernfix-forge-5.27.87%2Bmc1.20.1.jar?v=40c9b0aa7c",
-   "sha1": "40c9b0aa7ca061d9d2c75f3eba3941f59483a3aa",
-   "size": 1009643
+   "path": "mods/modernfix-forge-5.27.88+mc1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/modernfix-forge-5.27.88%2Bmc1.20.1.jar?v=c550424a1a",
+   "sha1": "c550424a1a5435dfc838672e1df61289717cb2cc",
+   "size": 1009661
   },
   {
    "path": "mods/monolib-forge-1.20.1-4.1.2.jar",

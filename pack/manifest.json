@@ -6,6 +6,40 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.12-0147",
+   "date": "12/10/2026",
+   "added": [
+    "After_Netherite-1.0.0-forge-1.20.1",
+    "AsyncParticles-20.1.4.1+1.20.1",
+    "PuzzlesLib-v8.1.36-1.20.1-Forge",
+    "Quick Skin - Forge - 1.20.1-3.1.1",
+    "baguettelib-1.20.1-Forge-2.0.7",
+    "c2meforge-0.2.0-forge.9.9-all",
+    "collective-1.20.1-8.46",
+    "controlplus-1.0.2",
+    "corpsecurioscompat-1.20.1-Forge-3.1.3",
+    "fancymenu_forge_3.9.14_MC_1.20.1",
+    "gnetum-2.5.1+1.20.1-forge",
+    "konkrete_forge_1.8.0_MC_1.20-1.20.1",
+    "melody_forge_1.0.3_MC_1.20.1-1.20.4",
+    "supplementaries-1.20-3.1.44-forge",
+    "weaponmaster_ydm-forge-1.20.1-4.2.3",
+    "yeons-bites-and-sips-forge-1.20.1-1.3.1"
+   ],
+   "updated": [],
+   "removed": [
+    "AsyncParticles-20.1.4.0+1.20.1",
+    "PuzzlesLib-v8.1.35-1.20.1-Forge",
+    "Quick Skin - Forge - 1.20.1-3.1.0",
+    "c2meforge-0.2.0-forge.9.8-all",
+    "collective-1.20.1-8.44",
+    "emotecraft-borrow-their-emote-1.0.1+1.20.1+forge",
+    "iammusicplayer-forge-mc1.20-3.22.0-alpha.5",
+    "supplementaries-1.20-3.1.43-forge"
+   ],
+   "other": 12
+  },
+  {
    "version": "2026.10.11-1901",
    "date": "11/10/2026",
    "added": [
@@ -114,17 +148,9 @@
    "updated": [],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.10.10-1939",
-   "date": "10/10/2026",
-   "added": [],
-   "updated": [],
-   "removed": [],
-   "other": 3
   }
  ],
- "version": "2026.10.11-1901",
+ "version": "2026.10.12-0147",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -249,8 +275,8 @@
   },
   {
    "path": "config/asyncparticles/asyncparticles-mixin.properties",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/asyncparticles/asyncparticles-mixin.properties?v=9d8c8ef213",
-   "sha1": "9d8c8ef213214457ab08f27bb4ba437d5607ca8c",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/asyncparticles/asyncparticles-mixin.properties?v=1d85c1611a",
+   "sha1": "1d85c1611a6f87ebeadd29d3d5bcc40a2af1fb46",
    "size": 2141,
    "mode": "update"
   },
@@ -585,9 +611,9 @@
   },
   {
    "path": "config/fml.toml",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/fml.toml?v=726869383a",
-   "sha1": "726869383a0dd9368201319b75b902b2e5c8207f",
-   "size": 1148,
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/fml.toml?v=e7ac50a3bb",
+   "sha1": "e7ac50a3bb0998643aceafe0da564a2cbb6b769a",
+   "size": 1158,
    "mode": "update"
   },
   {
@@ -1145,8 +1171,8 @@
   },
   {
    "path": "config/zfastnoise.mixin.properties",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/zfastnoise.mixin.properties?v=9a190d8768",
-   "sha1": "9a190d8768bab9b79ee4fe0c34fdd49798ab6ad2",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/config/zfastnoise.mixin.properties?v=d413db094e",
+   "sha1": "d413db094e0a71f182bc69176ee2688fa149d9f8",
    "size": 80,
    "mode": "update"
   },
@@ -1168,6 +1194,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/adventure_mass-1.2.0-forge-1.20.1.jar?v=fe78ae9f03",
    "sha1": "fe78ae9f03b22835959a1afa20a99932cfbef97d",
    "size": 818009
+  },
+  {
+   "path": "mods/After_Netherite-1.0.0-forge-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/After_Netherite-1.0.0-forge-1.20.1.jar?v=91136dcf52",
+   "sha1": "91136dcf522907c39d87e41e8b4c1e6f57b5f52e",
+   "size": 128526
   },
   {
    "path": "mods/alexscaves-2.0.2.jar",
@@ -1224,16 +1256,22 @@
    "size": 86757
   },
   {
-   "path": "mods/AsyncParticles-20.1.4.0+1.20.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AsyncParticles-20.1.4.0%2B1.20.1.jar?v=ae600484f2",
-   "sha1": "ae600484f2d9c37c074e7ea21ff574524d5b88da",
-   "size": 1990348
+   "path": "mods/AsyncParticles-20.1.4.1+1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AsyncParticles-20.1.4.1%2B1.20.1.jar?v=5e6a07e397",
+   "sha1": "5e6a07e39736756f5a92202fb83ec36b2cd90db0",
+   "size": 1990517
   },
   {
    "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/BadOptimizations-2.4.1-1.20.1.jar?v=304007dcb0",
    "sha1": "304007dcb0fb15ed1a1bc3771736470dafc5be0f",
    "size": 460234
+  },
+  {
+   "path": "mods/baguettelib-1.20.1-Forge-2.0.7.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/baguettelib-1.20.1-Forge-2.0.7.jar?v=e4f18588d0",
+   "sha1": "e4f18588d02137f34989393fad5a7369ef03a862",
+   "size": 63126
   },
   {
    "path": "mods/balm-forge-1.20.1-7.3.44.jar",
@@ -1290,10 +1328,10 @@
    "size": 202274
   },
   {
-   "path": "mods/c2meforge-0.2.0-forge.9.8-all.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/c2meforge-0.2.0-forge.9.8-all.jar?v=78f8d30dcf",
-   "sha1": "78f8d30dcf2ddff1fd860bc7f0e5f863edeeb5b5",
-   "size": 1356938
+   "path": "mods/c2meforge-0.2.0-forge.9.9-all.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/c2meforge-0.2.0-forge.9.9-all.jar?v=cd97f5c6e7",
+   "sha1": "cd97f5c6e7c784d3a503dcea8eeae1b5c1c9e0c8",
+   "size": 1371930
   },
   {
    "path": "mods/CerbonsApi-Forge-1.20.1-1.0.0.jar",
@@ -1326,10 +1364,16 @@
    "size": 20299
   },
   {
-   "path": "mods/collective-1.20.1-8.44.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.44.jar?v=bd8b8f3ac9",
-   "sha1": "bd8b8f3ac933948527b8ff5ba71b2344f71d7dae",
-   "size": 746884
+   "path": "mods/collective-1.20.1-8.46.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.46.jar?v=ed5f7f1991",
+   "sha1": "ed5f7f199117ff79a3839d3376e6a0fd48eaba71",
+   "size": 746411
+  },
+  {
+   "path": "mods/controlplus-1.0.2.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/controlplus-1.0.2.jar?v=754a8de9dd",
+   "sha1": "754a8de9dd4b7db017cb6a16162999d063675bb9",
+   "size": 31765
   },
   {
    "path": "mods/Corgilib-Forge-1.20.1-4.0.3.6.jar",
@@ -1348,6 +1392,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/corpse-forge-1.20.1-1.0.23.jar?v=843b16ca88",
    "sha1": "843b16ca88bc5c390bb22a2a84437e6bffdd43dd",
    "size": 245644
+  },
+  {
+   "path": "mods/corpsecurioscompat-1.20.1-Forge-3.1.3.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/corpsecurioscompat-1.20.1-Forge-3.1.3.jar?v=3b36538ca8",
+   "sha1": "3b36538ca8c6cc16982788c8e058cb726357a90c",
+   "size": 23655
   },
   {
    "path": "mods/crackedwhitelist-1.1.0.jar",
@@ -1440,12 +1490,6 @@
    "size": 1320675
   },
   {
-   "path": "mods/emotecraft-borrow-their-emote-1.0.1+1.20.1+forge.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/emotecraft-borrow-their-emote-1.0.1%2B1.20.1%2Bforge.jar?v=56a8d0b199",
-   "sha1": "56a8d0b199da8e0b06de9b8e93d0c9c7985ec820",
-   "size": 488494
-  },
-  {
    "path": "mods/ender_pack-merged-1.20.1-2.2.0.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ender_pack-merged-1.20.1-2.2.0.jar?v=20d4d3e14a",
    "sha1": "20d4d3e14a7f64afedbf3478474f2dfb023fa0db",
@@ -1518,6 +1562,12 @@
    "size": 97476
   },
   {
+   "path": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/fancymenu_forge_3.9.14_MC_1.20.1.jar?v=8916c8f2f1",
+   "sha1": "8916c8f2f12a986365148661fb59650950913b32",
+   "size": 26191988
+  },
+  {
    "path": "mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar?v=64414cc422",
    "sha1": "64414cc4229c909af4095ab5e8a4f3762cd55185",
@@ -1572,6 +1622,12 @@
    "size": 1038209
   },
   {
+   "path": "mods/gnetum-2.5.1+1.20.1-forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/gnetum-2.5.1%2B1.20.1-forge.jar?v=1482127693",
+   "sha1": "1482127693ec79ac9287f401dc3fc1c1b09b2456",
+   "size": 734397
+  },
+  {
    "path": "mods/gpumemleakfix-1.20.1-1.8.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/gpumemleakfix-1.20.1-1.8.jar?v=54301c2db5",
    "sha1": "54301c2db5467e0f9f5c504887436f358335331f",
@@ -1582,12 +1638,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/hardcoretotemnerf-3.1.0%2B1.20.1-fabric.jar?v=cd49c92532",
    "sha1": "cd49c92532a9b56fa421e0103db2ce973b53f34e",
    "size": 96497
-  },
-  {
-   "path": "mods/iammusicplayer-forge-mc1.20-3.22.0-alpha.5.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/iammusicplayer-forge-mc1.20-3.22.0-alpha.5.jar?v=f2b3253112",
-   "sha1": "f2b32531122f07d53f12159f680b4777606ef6ce",
-   "size": 10932092
   },
   {
    "path": "mods/IBOMD v1.0.0-1.20.1.jar",
@@ -1656,6 +1706,12 @@
    "size": 588507
   },
   {
+   "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar?v=2019d821be",
+   "sha1": "2019d821bed9071daabed43979433a5473ceee49",
+   "size": 625185
+  },
+  {
    "path": "mods/kotlinforforge-4.12.0-all.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/kotlinforforge-4.12.0-all.jar?v=962fdb7604",
    "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
@@ -1672,6 +1728,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/MagnumTorch-v8.0.2-1.20.1-Forge.jar?v=bc5bf29c5a",
    "sha1": "bc5bf29c5a27ad90619a0ae6f67d9004765d4c25",
    "size": 90965
+  },
+  {
+   "path": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar?v=e0942d396a",
+   "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
+   "size": 37178
   },
   {
    "path": "mods/mendingnerf-1.0.1-forge.jar",
@@ -1794,10 +1856,10 @@
    "size": 16558
   },
   {
-   "path": "mods/PuzzlesLib-v8.1.35-1.20.1-Forge.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/PuzzlesLib-v8.1.35-1.20.1-Forge.jar?v=b36eaa4369",
-   "sha1": "b36eaa4369cb8aadda09156d5d2c9efbec81266d",
-   "size": 1789960
+   "path": "mods/PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/PuzzlesLib-v8.1.36-1.20.1-Forge.jar?v=d2e79bc84f",
+   "sha1": "d2e79bc84f0f2e75e3212ab236af08528117b213",
+   "size": 1790007
   },
   {
    "path": "mods/Quark-4.0-462.jar",
@@ -1806,10 +1868,10 @@
    "size": 14935230
   },
   {
-   "path": "mods/Quick Skin - Forge - 1.20.1-3.1.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Quick%20Skin%20-%20Forge%20-%201.20.1-3.1.0.jar?v=931665ad6a",
-   "sha1": "931665ad6a19aea2de954259cd5bce8b4d12914b",
-   "size": 5375331
+   "path": "mods/Quick Skin - Forge - 1.20.1-3.1.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Quick%20Skin%20-%20Forge%20-%201.20.1-3.1.1.jar?v=7176ecf01c",
+   "sha1": "7176ecf01c607567e48faacfd4f4d66b4bb1dbb2",
+   "size": 5489545
   },
   {
    "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
@@ -1968,10 +2030,10 @@
    "size": 32838
   },
   {
-   "path": "mods/supplementaries-1.20-3.1.43-forge.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/supplementaries-1.20-3.1.43-forge.jar?v=326d65a299",
-   "sha1": "326d65a29981de28016e3828370d68a8f63e1798",
-   "size": 13667742
+   "path": "mods/supplementaries-1.20-3.1.44-forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/supplementaries-1.20-3.1.44-forge.jar?v=01e9bd4c26",
+   "sha1": "01e9bd4c264c6e04c7613095438bf0eee657b16f",
+   "size": 13686603
   },
   {
    "path": "mods/tenshilib-1.20.1-1.7.6-forge.jar",
@@ -2010,6 +2072,12 @@
    "size": 435496
   },
   {
+   "path": "mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar?v=9fe819dc11",
+   "sha1": "9fe819dc110461f55909dabbed73e4fe3bdde158",
+   "size": 283977
+  },
+  {
    "path": "mods/wither_drops_netherite_templates_1.0.0_forge_1.20.1.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/wither_drops_netherite_templates_1.0.0_forge_1.20.1.jar?v=5b4d5ffd35",
    "sha1": "5b4d5ffd358f096e130e6900198fb94d321078fa",
@@ -2020,6 +2088,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/xptome-1.20.1-2.2.1.jar?v=078831ad10",
    "sha1": "078831ad10ea6fa5750e3c6049915beca8401a88",
    "size": 22972
+  },
+  {
+   "path": "mods/yeons-bites-and-sips-forge-1.20.1-1.3.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/yeons-bites-and-sips-forge-1.20.1-1.3.1.jar?v=0887e64fe2",
+   "sha1": "0887e64fe2a37cc817d530e4174aec81d3c7f4d4",
+   "size": 5074704
   },
   {
    "path": "mods/zaynens_craftable_slimeball_mod_1.20.1.jar",
@@ -2046,22 +2120,22 @@
    "size": 492950
   },
   {
-   "path": "resourcepacks/AlkimaMuertes_Resourcepack.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/AlkimaMuertes_Resourcepack.zip?v=22551fb653",
-   "sha1": "22551fb65368f9c1c1bce7830db447900eb73b32",
-   "size": 18563
-  },
-  {
-   "path": "resourcepacks/Better Mob Models 1.2.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Better%20Mob%20Models%201.2.zip?v=24731c6c30",
-   "sha1": "24731c6c309f0a60165b9b2b0e99160ec2558c0c",
-   "size": 161625
+   "path": "resourcepacks/AlkimaCielo.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/AlkimaCielo.zip?v=781d0a02e9",
+   "sha1": "781d0a02e937286299f308dbd572252622b4660c",
+   "size": 349697
   },
   {
    "path": "resourcepacks/Chemistry Potions 1.20.1.zip",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Chemistry%20Potions%201.20.1.zip?v=ea93b33e2d",
    "sha1": "ea93b33e2d04188c7bb0284ecd8effb1ede8c6e9",
    "size": 34209
+  },
+  {
+   "path": "resourcepacks/davka's Giant Netherite.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/davka%27s%20Giant%20Netherite.zip?v=32ac549b71",
+   "sha1": "32ac549b716b4db7b826ce00f43b5a2ddade720e",
+   "size": 772367
   },
   {
    "path": "resourcepacks/FA+Player-v1.1.zip",
@@ -2076,40 +2150,22 @@
    "size": 4784242
   },
   {
-   "path": "resourcepacks/JefeFinal_ResourcePack.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/JefeFinal_ResourcePack.zip?v=437a6cae93",
-   "sha1": "437a6cae937a804c37a891bc8e656be2d13c16c1",
-   "size": 14844
-  },
-  {
    "path": "resourcepacks/Low Fire.zip",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Low%20Fire.zip?v=0f8e2e5f6e",
    "sha1": "0f8e2e5f6eb9f1e2fe35da7a7a0a355760998021",
    "size": 42116
   },
   {
-   "path": "resourcepacks/Quark Programmer Art.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Quark%20Programmer%20Art.zip?v=2f4cadbbae",
-   "sha1": "2f4cadbbaeffec5f2811b34e053450a930626c15",
-   "size": 266434
+   "path": "resourcepacks/Nutria_DEDsafio2_v1.2.zip",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Nutria_DEDsafio2_v1.2.zip?v=de6e182e47",
+   "sha1": "de6e182e471851700dcd66074f8d22ad9d62e923",
+   "size": 309219
   },
   {
    "path": "resourcepacks/Teto Totem [Tetom].zip",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Teto%20Totem%20%5BTetom%5D.zip?v=1cb467494f",
    "sha1": "1cb467494f9b28202427889e978aa6cf9903a8ec",
    "size": 388738
-  },
-  {
-   "path": "resourcepacks/Torrezx-Better_boss_x.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Torrezx-Better_boss_x.zip?v=9197d0fa6d",
-   "sha1": "9197d0fa6d2343109ec632e1c3e658fdd29e8945",
-   "size": 14009
-  },
-  {
-   "path": "resourcepacks/\u00a76Chest \u00a7fof \u00a7b\u00a7lTranslations\u00a760.5\u00a7r.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/%C2%A76Chest%20%C2%A7fof%20%C2%A7b%C2%A7lTranslations%C2%A760.5%C2%A7r.zip?v=b9f466fcb6",
-   "sha1": "b9f466fcb64b217f6ad918d393defa868367254a",
-   "size": 269228
   },
   {
    "path": "resourcepacks/\u00a7eTorches\u00a78-\u00a7eReimagined\u00a70_\u00a78[v1.8]\u00a70.zip",

@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.12-1245",
+   "date": "12/10/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "yeons-bites-and-sips-forge-1.20.1-1.3.1"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.12-1015",
    "date": "12/10/2026",
    "added": [],
@@ -128,25 +138,9 @@
     "Random Events"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.10-2136",
-   "date": "10/10/2026",
-   "added": [
-    "Boss Music Mod 1.20.x v1.2.1",
-    "boss_checklist-forge-5.2.0",
-    "collective-1.20.1-8.44",
-    "modernfix-forge-5.27.88+mc1.20.1"
-   ],
-   "updated": [],
-   "removed": [
-    "collective-1.20.1-8.43",
-    "modernfix-forge-5.27.87+mc1.20.1"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.10.12-1015",
+ "version": "2026.10.12-1245",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -2084,12 +2078,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/xptome-1.20.1-2.2.1.jar?v=078831ad10",
    "sha1": "078831ad10ea6fa5750e3c6049915beca8401a88",
    "size": 22972
-  },
-  {
-   "path": "mods/yeons-bites-and-sips-forge-1.20.1-1.3.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/yeons-bites-and-sips-forge-1.20.1-1.3.1.jar?v=0887e64fe2",
-   "sha1": "0887e64fe2a37cc817d530e4174aec81d3c7f4d4",
-   "size": 5074704
   },
   {
    "path": "mods/zaynens_craftable_slimeball_mod_1.20.1.jar",

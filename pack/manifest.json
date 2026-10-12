@@ -6,6 +6,20 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.11-1901",
+   "date": "11/10/2026",
+   "added": [
+    "MagnumTorch-v8.0.2-1.20.1-Forge",
+    "MossyLib-1.6.0+1.20.1+forge",
+    "emotecraft-borrow-their-emote-1.0.1+1.20.1+forge"
+   ],
+   "updated": [],
+   "removed": [
+    "Animorph-forge-1.20.1-1.1.0-all"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.11-1718",
    "date": "11/10/2026",
    "added": [
@@ -108,20 +122,9 @@
    "updated": [],
    "removed": [],
    "other": 3
-  },
-  {
-   "version": "2026.10.10-1937",
-   "date": "10/10/2026",
-   "added": [
-    "smoothswapping-0.9.3.2-1.20.1-forge",
-    "zaynens_craftable_slimeball_mod_1.20.1"
-   ],
-   "updated": [],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.10.11-1718",
+ "version": "2026.10.11-1901",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1197,12 +1200,6 @@
    "size": 1315525
   },
   {
-   "path": "mods/Animorph-forge-1.20.1-1.1.0-all.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Animorph-forge-1.20.1-1.1.0-all.jar?v=e22552ffeb",
-   "sha1": "e22552ffeb1008445c85e5102c550a290f270daa",
-   "size": 1657698
-  },
-  {
    "path": "mods/AquaCreepers-3.0.0.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AquaCreepers-3.0.0.jar?v=1020274d9c",
    "sha1": "1020274d9cfd2de720e87687e7e89a4c7d024d02",
@@ -1443,6 +1440,12 @@
    "size": 1320675
   },
   {
+   "path": "mods/emotecraft-borrow-their-emote-1.0.1+1.20.1+forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/emotecraft-borrow-their-emote-1.0.1%2B1.20.1%2Bforge.jar?v=56a8d0b199",
+   "sha1": "56a8d0b199da8e0b06de9b8e93d0c9c7985ec820",
+   "size": 488494
+  },
+  {
    "path": "mods/ender_pack-merged-1.20.1-2.2.0.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ender_pack-merged-1.20.1-2.2.0.jar?v=20d4d3e14a",
    "sha1": "20d4d3e14a7f64afedbf3478474f2dfb023fa0db",
@@ -1665,6 +1668,12 @@
    "size": 463485
   },
   {
+   "path": "mods/MagnumTorch-v8.0.2-1.20.1-Forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/MagnumTorch-v8.0.2-1.20.1-Forge.jar?v=bc5bf29c5a",
+   "sha1": "bc5bf29c5a27ad90619a0ae6f67d9004765d4c25",
+   "size": 90965
+  },
+  {
    "path": "mods/mendingnerf-1.0.1-forge.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/mendingnerf-1.0.1-forge.jar?v=c3ad7a9233",
    "sha1": "c3ad7a9233bc89523ba20558d8970e9b3154cb61",
@@ -1699,6 +1708,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/moonlight-1.20-2.16.36-forge.jar?v=4b3c2ed059",
    "sha1": "4b3c2ed059c88a646e2ebb52effe139eb31bba21",
    "size": 1425231
+  },
+  {
+   "path": "mods/MossyLib-1.6.0+1.20.1+forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/MossyLib-1.6.0%2B1.20.1%2Bforge.jar?v=9042e64677",
+   "sha1": "9042e646775716e7e887700513f99aaa79906060",
+   "size": 374176
   },
   {
    "path": "mods/naturallychargedcreepers-1.20.1-3.7.jar",

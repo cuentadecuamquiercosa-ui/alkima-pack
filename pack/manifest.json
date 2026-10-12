@@ -6,6 +6,14 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.12-1015",
+   "date": "12/10/2026",
+   "added": [],
+   "updated": [],
+   "removed": [],
+   "other": 1
+  },
+  {
    "version": "2026.10.12-0147",
    "date": "12/10/2026",
    "added": [
@@ -136,21 +144,9 @@
     "modernfix-forge-5.27.87+mc1.20.1"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.10-2020",
-   "date": "10/10/2026",
-   "added": [
-    "jei-1.20.1-forge-15.56.0.205",
-    "jei_plus_plus-1.0.7-1.20.1",
-    "journeymap-forge-1.20.1-6.0.7"
-   ],
-   "updated": [],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.10.12-0147",
+ "version": "2026.10.12-1015",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -2118,12 +2114,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/zombiesmore-2.1.5-forge-1.20.1.jar?v=4018970fb6",
    "sha1": "4018970fb6024a3848d98c432b7b54b95b9afcca",
    "size": 492950
-  },
-  {
-   "path": "resourcepacks/AlkimaCielo.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/AlkimaCielo.zip?v=781d0a02e9",
-   "sha1": "781d0a02e937286299f308dbd572252622b4660c",
-   "size": 349697
   },
   {
    "path": "resourcepacks/Chemistry Potions 1.20.1.zip",

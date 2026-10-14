@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.14-1216",
+   "date": "14/10/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "respawnrecap-forge-1.2.0-1.20.1"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.13-2246",
    "date": "13/10/2026",
    "added": [
@@ -141,17 +151,9 @@
    "updated": [],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.10.11-1109",
-   "date": "11/10/2026",
-   "added": [],
-   "updated": [],
-   "removed": [],
-   "other": 9
   }
  ],
- "version": "2026.10.13-2246",
+ "version": "2026.10.14-1216",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -2198,12 +2200,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/resourcefullib-forge-1.20.1-2.1.29.jar?v=6fc590a7c5",
    "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
    "size": 432753
-  },
-  {
-   "path": "mods/respawnrecap-forge-1.2.0-1.20.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/respawnrecap-forge-1.2.0-1.20.1.jar?v=02e1adea97",
-   "sha1": "02e1adea97182f43d7094f50e59d2b6be613dcf0",
-   "size": 5456970
   },
   {
    "path": "mods/ReworkedPhantoms-1.2.5+Forge-1.19.4.jar",

@@ -3,12 +3,15 @@ version = 3
 #   max(
 #       1,
 #       min(
-#           (cpus * 0.85),
+#           if( max(0, 9 - cpus),
+#               cpus,
+#               (cpus * 0.85) - if(is_client, 1, 0)
+#           ),
 #           if( is_j9vm,
 #               ( ( mem_gb - (if(is_client, 1.0, 0.6)) ) / 0.35 ),
 #               ( ( mem_gb - (if(is_client, 1.5, 1.0)) ) / 0.6 )
 #           )
-#       ) - if(is_client, 1, 0)
+#       )
 #   )
 #)  
 #  The expression for the default value of global executor parallelism. 
@@ -16,7 +19,7 @@ version = 3
 #  Available variables: is_windows, is_j9vm, is_client, cpus, mem_gb
 # 
 defaultGlobalExecutorParallelismExpression = "default"
-# (Default: 2) Configures the parallelism of global executor
+# (Default: 4) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 
 [clientSideConfig]
@@ -50,7 +53,7 @@ globalExecutorParallelism = "default"
 	# (Default: true) Whether to enable no-tick view distance
 	# (switched off automatically with Valkyrien Skies, whose ship physics needs ticking-ready chunks)
 	enabled = "default"
-	# (Default: 3) No-tick view distance max concurrent chunk loads 
+	# (Default: 5) No-tick view distance max concurrent chunk loads 
 	#  Lower this for a better latency and higher this for a faster loading
 	maxConcurrentChunkLoads = "default"
 	# (Default: true) Whether to use compatibility mode to send chunks 
@@ -101,9 +104,29 @@ globalExecutorParallelism = "default"
 	replaceImpl = "default"
 	# (Default: true) Whether to use async chunk loading & unloading
 	async = "default"
+	# (Default: 8192) Soft limit for io worker nbt cache
+	chunkDataCacheSoftLimit = "default"
+	# (Default: 32678) Hard limit for io worker nbt cache
+	chunkDataCacheLimit = "default"
+	# (Default: -1) Defines which chunk compression should be used 
+	# -1 for Vanilla default  
+	# 1  for GZip (RFC1952) (Vanilla compatible) 
+	# 2  for Zlib (RFC1950) (Vanilla default) (Vanilla compatible) 
+	# 3  for Uncompressed (Fastest, but higher disk usage) (Vanilla compatible) 
+	#  
+	# Original chunk data will still readable after modifying this option  
+	# as this option only affects newly stored chunks 
+	# Invalid values will fall back to vanilla default 
+	# 
+	chunkStreamVersion = "default"
+	# (Default: false) Whether to recover from errors when loading chunks 
+	#  This will cause errored chunk to be regenerated entirely, which may cause data loss 
+	#  Only applies when async chunk loading is enabled
+	# 
+	recoverFromErrors = "default"
 
 [threadedWorldGen]
-	# (Default: false) Whether to enable this feature
+	# (Default: true) Whether to enable this feature
 	enabled = "default"
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
 	# (may cause incompatibility with other mods)
@@ -125,4 +148,14 @@ globalExecutorParallelism = "default"
 	# map in a plain hash map and writes it from the surface step, so it is listed by default. 
 	# 
 	serializedChunkGenerators = "default"
+
+[vanillaWorldGenOptimizations]
+	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
+	# (may cause incompatibility with other mods)
+	optimizeAquifer = "default"
+	# (Default: true) Whether to enable End Biome Cache to accelerate The End worldgen 
+	# This is no longer included in lithium-fabric 
+	# (may cause incompatibility with other mods)
+	# 
+	useEndBiomeCache = "default"
 

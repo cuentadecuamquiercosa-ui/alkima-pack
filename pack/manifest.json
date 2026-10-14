@@ -6,6 +6,19 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.14-1300",
+   "date": "14/10/2026",
+   "added": [
+    "AlkimaBrecha-1.0.0"
+   ],
+   "updated": [],
+   "removed": [
+    "After_Netherite-1.0.0-forge-1.20.1",
+    "shieldexp-forge-1.20.1-1.3.7"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.14-1216",
    "date": "14/10/2026",
    "added": [],
@@ -140,20 +153,9 @@
    "updated": [],
    "removed": [],
    "other": 3
-  },
-  {
-   "version": "2026.10.11-1410",
-   "date": "11/10/2026",
-   "added": [
-    "iammusicplayer-forge-mc1.20-3.22.0-alpha.5",
-    "otyacraftengine-forge-mc1.20-3.7.0-alpha.2"
-   ],
-   "updated": [],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.10.14-1216",
+ "version": "2026.10.14-1300",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1458,12 +1460,6 @@
    "size": 818009
   },
   {
-   "path": "mods/After_Netherite-1.0.0-forge-1.20.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/After_Netherite-1.0.0-forge-1.20.1.jar?v=91136dcf52",
-   "sha1": "91136dcf522907c39d87e41e8b4c1e6f57b5f52e",
-   "size": 128526
-  },
-  {
    "path": "mods/alexscaves-2.0.2.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alexscaves-2.0.2.jar?v=a1e5c7b7c7",
    "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
@@ -1480,6 +1476,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkima_optimizer-1.0.0.jar?v=e724dce94c",
    "sha1": "e724dce94cc83437d22f66c6bedd21fc836f5675",
    "size": 10572
+  },
+  {
+   "path": "mods/AlkimaBrecha-1.0.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AlkimaBrecha-1.0.0.jar?v=92b5270367",
+   "sha1": "92b5270367d2a9b9ff5e97133939a132735bb259",
+   "size": 550152
   },
   {
    "path": "mods/alltheleaks-1.1.3+1.20.1-forge.jar",
@@ -2218,12 +2220,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/shadowizardlib-1.20.1-1.3.1.jar?v=fc5507e00f",
    "sha1": "fc5507e00f1018ee6a17544723436962cdcfae1d",
    "size": 61395
-  },
-  {
-   "path": "mods/shieldexp-forge-1.20.1-1.3.7.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/shieldexp-forge-1.20.1-1.3.7.jar?v=087e0e3486",
-   "sha1": "087e0e34864dc4f077d78026b58d440859591b37",
-   "size": 419824
   },
   {
    "path": "mods/shulkerboxtooltip-forge-4.0.4+1.20.1.jar",

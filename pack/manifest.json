@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.16-0952",
+   "date": "16/10/2026",
+   "added": [],
+   "updated": [
+    "AlkimaBrecha-1.0.0"
+   ],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.10.14-1812",
    "date": "14/10/2026",
    "added": [],
@@ -113,43 +123,9 @@
    "updated": [],
    "removed": [],
    "other": 1
-  },
-  {
-   "version": "2026.10.12-0147",
-   "date": "12/10/2026",
-   "added": [
-    "After_Netherite-1.0.0-forge-1.20.1",
-    "AsyncParticles-20.1.4.1+1.20.1",
-    "PuzzlesLib-v8.1.36-1.20.1-Forge",
-    "Quick Skin - Forge - 1.20.1-3.1.1",
-    "baguettelib-1.20.1-Forge-2.0.7",
-    "c2meforge-0.2.0-forge.9.9-all",
-    "collective-1.20.1-8.46",
-    "controlplus-1.0.2",
-    "corpsecurioscompat-1.20.1-Forge-3.1.3",
-    "fancymenu_forge_3.9.14_MC_1.20.1",
-    "gnetum-2.5.1+1.20.1-forge",
-    "konkrete_forge_1.8.0_MC_1.20-1.20.1",
-    "melody_forge_1.0.3_MC_1.20.1-1.20.4",
-    "supplementaries-1.20-3.1.44-forge",
-    "weaponmaster_ydm-forge-1.20.1-4.2.3",
-    "yeons-bites-and-sips-forge-1.20.1-1.3.1"
-   ],
-   "updated": [],
-   "removed": [
-    "AsyncParticles-20.1.4.0+1.20.1",
-    "PuzzlesLib-v8.1.35-1.20.1-Forge",
-    "Quick Skin - Forge - 1.20.1-3.1.0",
-    "c2meforge-0.2.0-forge.9.8-all",
-    "collective-1.20.1-8.44",
-    "emotecraft-borrow-their-emote-1.0.1+1.20.1+forge",
-    "iammusicplayer-forge-mc1.20-3.22.0-alpha.5",
-    "supplementaries-1.20-3.1.43-forge"
-   ],
-   "other": 12
   }
  ],
- "version": "2026.10.14-1812",
+ "version": "2026.10.16-0952",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1473,9 +1449,9 @@
   },
   {
    "path": "mods/AlkimaBrecha-1.0.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AlkimaBrecha-1.0.0.jar?v=a600975320",
-   "sha1": "a600975320942c5630060d4df3662c8869542792",
-   "size": 418730
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AlkimaBrecha-1.0.0.jar?v=c2a6f4afae",
+   "sha1": "c2a6f4afaea64bd6aeeaba00fed7fe016bdf05b1",
+   "size": 497289
   },
   {
    "path": "mods/alltheleaks-1.1.3+1.20.1-forge.jar",

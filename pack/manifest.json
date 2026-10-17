@@ -6,6 +6,22 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.17-1016",
+   "date": "17/10/2026",
+   "added": [
+    "camera_entity_fade-0.1.1+forge-1.20.1",
+    "oculus-mc1.20.1-1.8.0",
+    "perspective_api-1.5.0-beta+forge-1.20.1",
+    "v2.0 Forge 1.20-1.20.4"
+   ],
+   "updated": [],
+   "removed": [
+    "fancymenu_forge_3.9.14_MC_1.20.1",
+    "replaymodcinematics-0.1.0"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.17-0904",
    "date": "17/10/2026",
    "added": [],
@@ -114,19 +130,9 @@
    ],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.10.14-1314",
-   "date": "14/10/2026",
-   "added": [],
-   "updated": [
-    "AlkimaBrecha-1.0.0"
-   ],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.10.17-0904",
+ "version": "2026.10.17-1016",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1575,6 +1581,12 @@
    "size": 1371930
   },
   {
+   "path": "mods/camera_entity_fade-0.1.1+forge-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/camera_entity_fade-0.1.1%2Bforge-1.20.1.jar?v=e9b1e4e018",
+   "sha1": "e9b1e4e018f19da510ff26068af2b534bf18e9ec",
+   "size": 92679
+  },
+  {
    "path": "mods/CerbonsApi-Forge-1.20.1-1.0.0.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/CerbonsApi-Forge-1.20.1-1.0.0.jar?v=331687b0f8",
    "sha1": "331687b0f8ca6410d9fa24a64c10ccad77f770ec",
@@ -1807,12 +1819,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/explosiveenhancement-1.2.0.jar?v=35cf80849a",
    "sha1": "35cf80849ac4b19416cadc12cf10de34295e51f5",
    "size": 97476
-  },
-  {
-   "path": "mods/fancymenu_forge_3.9.14_MC_1.20.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/fancymenu_forge_3.9.14_MC_1.20.1.jar?v=8916c8f2f1",
-   "sha1": "8916c8f2f12a986365148661fb59650950913b32",
-   "size": 26191988
   },
   {
    "path": "mods/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
@@ -2073,6 +2079,12 @@
    "size": 424035
   },
   {
+   "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/oculus-mc1.20.1-1.8.0.jar?v=984f774e71",
+   "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+   "size": 2851119
+  },
+  {
    "path": "mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/otyacraftengine-forge-mc1.20-3.7.0-alpha.2.jar?v=4c12943784",
    "sha1": "4c129437845f8d808ee56663fb7413dfed2f8daf",
@@ -2095,6 +2107,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Pehkui-3.8.2%2B1.20.1-forge.jar?v=4bc816efdd",
    "sha1": "4bc816efdd8e5e2a97423313674401351710e403",
    "size": 671605
+  },
+  {
+   "path": "mods/perspective_api-1.5.0-beta+forge-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/perspective_api-1.5.0-beta%2Bforge-1.20.1.jar?v=4448a42032",
+   "sha1": "4448a42032518fd193442d4ac43d068964f9a449",
+   "size": 906015
   },
   {
    "path": "mods/Ping-Wheel-1.12.1-forge-1.20.1.jar",
@@ -2161,12 +2179,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/repairbox-forge-1.0.7.jar?v=5f67a3085a",
    "sha1": "5f67a3085ac89db4e8c6309ee57b10d05a97db3a",
    "size": 152618
-  },
-  {
-   "path": "mods/replaymodcinematics-0.1.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/replaymodcinematics-0.1.0.jar?v=56c018a690",
-   "sha1": "56c018a69033be2c462f3a09c8f7ff4c4b807288",
-   "size": 140626
   },
   {
    "path": "mods/Resource Ghouls V1.8 - Forge 1.20.1.jar",
@@ -2329,6 +2341,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/tt20-0.8.5%2Bmc1.20.1-forge.jar?v=80fc4eda0c",
    "sha1": "80fc4eda0c848ff5443bfce82ced8164ffa9c092",
    "size": 685101
+  },
+  {
+   "path": "mods/v2.0 Forge 1.20-1.20.4.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/v2.0%20Forge%201.20-1.20.4.jar?v=f9a5ac5a50",
+   "sha1": "f9a5ac5a50d187a5c7ab121ff678d2d65b469db8",
+   "size": 9591
   },
   {
    "path": "mods/villagergolemhealer 1.20.1.jar",

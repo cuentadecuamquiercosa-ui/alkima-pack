@@ -1,0 +1,11 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Naturally Charged Creepers -> Config",
+	"Enable Naturally Charged Creepers": {
+		"//": "Whether Naturally Charged Creepers is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"isChargedChance": {
+		"//": "The chance of a creeper being naturally charged. min: 0, max: 1",
+		"value": 0.1
+	}
+}

@@ -1,0 +1,34 @@
+
+[chat]
+	#Sends out a massage containing players coordinates
+	"Chat Massage" = false
+
+[flares]
+	#Keep in mind the damage scales with speed (speed x damage)
+	"Flare Speed" = 2.5
+	#Keep in mind the damage scales with speed (speed x damage)
+	"Flare Damage" = 3.0
+	"Flare Knockback" = 1.0
+	"Flare Piercing" = 0.0
+	#Sets targets on fire
+	"Flare Fire" = true
+	"Flare No Gravity Ticks" = 25.0
+	"Flare Gun Inaccuracy" = 15.0
+	"Flare Dispenser Inaccuracy" = 8.0
+
+[glow_sticks]
+	#Duration is measured in ticks
+	"Green Glow Stick Duration" = 900.0
+	#Duration is measured in ticks
+	"Pink Glow Stick Duration" = 900.0
+	#Duration is measured in ticks
+	"Cyan Glow Stick Duration" = 900.0
+	#Duration is measured in ticks
+	"Sticky Green Glow Stick Duration" = 900.0
+	#Duration is measured in ticks
+	"Sticky Pink Glow Stick Duration" = 900.0
+	#Duration is measured in ticks
+	"Sticky Cyan Glow Stick Duration" = 900.0
+	#Duration is measured in ticks
+	"Echo Glow Stick Duration" = 140.0
+

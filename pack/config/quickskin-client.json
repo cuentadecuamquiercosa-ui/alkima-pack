@@ -42,7 +42,9 @@
   "playerOwnSkinHash": "sha256-04467ac9096a9f1ea9d88f80c62b56e5b83874ca1d61ec47958c43a8c765917e",
   "playerOwnSkinAccount": "73b64d6b-8705-4a55-a32f-94934ceb0a63:KOZANYba",
   "accountSkins": {
-    "skins": {},
-    "migrated": false
+    "skins": {
+      "73b64d6b-8705-4a55-a32f-94934ceb0a63:KOZANYba": "sha256-04467ac9096a9f1ea9d88f80c62b56e5b83874ca1d61ec47958c43a8c765917e"
+    },
+    "migrated": true
   }
 }

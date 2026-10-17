@@ -1,0 +1,17 @@
+#Si es true, el Rey habla (audio completo de ~37 s) antes de que baje el bloque. Si es false, se salta la voz.
+esperarVozCompleta = true
+#Segundos de espera entre usos del Orbe de la Brecha.
+#Range: 0 ~ 3600
+cooldownSegundos = 30
+#Veces maximas que se puede abrir la brecha por dia (en todo el mundo). Con 2: la 2da compensa a la 1ra.
+#Range: 1 ~ 10
+maxPorDia = 2
+#false = un dia de Minecraft (24000 ticks). true = un dia real del calendario.
+diaReal = false
+#Duracion de cada mision diaria en ticks (24000 = 1 dia de Minecraft = 20 min reales).
+#Range: 1200 ~ 1728000
+misionDuracionTicks = 24000
+#Severidad maxima acumulada de las reglas permanentes (amarillo). Evita acumular demasiadas penalizaciones.
+#Range: 5 ~ 200
+maxSeveridadReglas = 40
+

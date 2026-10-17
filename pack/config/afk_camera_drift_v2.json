@@ -1,0 +1,11 @@
+{
+  "modEnabled": true,
+  "idleTimeoutSeconds": 60,
+  "showSleepMessage": true,
+  "sleepMessage": "§8[§bAFK Camera§8] §7You fall asleep...",
+  "showWakeUpMessage": true,
+  "wakeUpMessage": "§8[§bAFK Camera§8] §7You wake up..",
+  "toggleOnMessage": "§8[§bAFK Camera§8] §7Mod is now: §aON",
+  "toggleOffMessage": "§8[§bAFK Camera§8] §7Mod is now: §cOFF",
+  "forceAfkMessage": "§8[§bAFK Camera§8] §eForced AFK mode!"
+}

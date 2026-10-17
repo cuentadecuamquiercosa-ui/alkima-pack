@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.17-0845",
+   "date": "17/10/2026",
+   "added": [
+    "signal_flares-2.0.1-forge-1.20.1"
+   ],
+   "updated": [],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.10.17-0841",
    "date": "17/10/2026",
    "added": [],
@@ -114,37 +124,9 @@
     "respawnrecap-forge-1.2.0-1.20.1"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.13-2246",
-   "date": "13/10/2026",
-   "added": [
-    "Audio Improvements v2.0.1 (Forge 1.20.1)",
-    "Difficult Caves 1.0.0 - 1.20.1",
-    "collective-1.20.1-8.50",
-    "fullbrightnesstoggle-1.20.1-4.9",
-    "integrated_api-forge-1.20.1-1.9.1",
-    "l2complements-2.6.1",
-    "l2library-2.5.5",
-    "l2weaponry-2.6.3",
-    "respawnrecap-forge-1.2.0-1.20.1",
-    "sophisticatedbackpacks-1.20.1-3.26.12.2206",
-    "sophisticatedcore-1.20.1-1.5.10.2402",
-    "yet_another_config_lib_v3-3.6.6+1.20.1-forge"
-   ],
-   "updated": [],
-   "removed": [
-    "collective-1.20.1-8.46",
-    "fancymenu_forge_3.9.14_MC_1.20.1",
-    "fullbrightnesstoggle-1.20.1-4.7",
-    "integrated_api-forge-1.20.1-1.9.0",
-    "sophisticatedbackpacks-1.20.1-3.26.9.2194",
-    "sophisticatedcore-1.20.1-1.5.6.2383"
-   ],
-   "other": 46
   }
  ],
- "version": "2026.10.17-0841",
+ "version": "2026.10.17-0845",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -2227,6 +2209,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/shulkerboxtooltip-forge-4.0.4%2B1.20.1.jar?v=f6d7615ac5",
    "sha1": "f6d7615ac5349fc1625cd2941a5d861c52428a0b",
    "size": 221124
+  },
+  {
+   "path": "mods/signal_flares-2.0.1-forge-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/signal_flares-2.0.1-forge-1.20.1.jar?v=6b0ca3883b",
+   "sha1": "6b0ca3883b37ac25a2aa6e49f798d3aeedfad6c9",
+   "size": 1060326
   },
   {
    "path": "mods/SimpleCustomEarlyLoading-2.2-forge.jar",

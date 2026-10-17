@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.17-0904",
+   "date": "17/10/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "Immersive Vehicles-1.20.1-24.0.0"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.17-0859",
    "date": "17/10/2026",
    "added": [
@@ -114,22 +124,9 @@
    ],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.10.14-1300",
-   "date": "14/10/2026",
-   "added": [
-    "AlkimaBrecha-1.0.0"
-   ],
-   "updated": [],
-   "removed": [
-    "After_Netherite-1.0.0-forge-1.20.1",
-    "shieldexp-forge-1.20.1-1.3.7"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.10.17-0859",
+ "version": "2026.10.17-0904",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1900,12 +1897,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar?v=9eacd407b7",
    "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
    "size": 532063
-  },
-  {
-   "path": "mods/Immersive Vehicles-1.20.1-24.0.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Immersive%20Vehicles-1.20.1-24.0.0.jar?v=efe6962bf0",
-   "sha1": "efe6962bf0304eb7ac234daa75551bf8e30ef3b7",
-   "size": 6254897
   },
   {
    "path": "mods/immersive_optimization-forge-1.20.1-0.2.0.jar",

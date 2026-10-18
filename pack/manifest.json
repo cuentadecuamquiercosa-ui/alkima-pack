@@ -6,6 +6,20 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.17-2058",
+   "date": "17/10/2026",
+   "added": [
+    "reforgedplaymod-1.20.1-0.3.1",
+    "signal_flares-2.0.1-forge-1.20.1"
+   ],
+   "updated": [],
+   "removed": [
+    "camera_entity_fade-0.1.1+forge-1.20.1",
+    "signal_flares-2.0.1-forge-1.20.1.jar"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.17-2056",
    "date": "17/10/2026",
    "added": [],
@@ -124,19 +138,9 @@
     "sophisticatedcore-1.20.1-1.5.10.2402"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.16-0952",
-   "date": "16/10/2026",
-   "added": [],
-   "updated": [
-    "AlkimaBrecha-1.0.0"
-   ],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.10.17-2056",
+ "version": "2026.10.17-2058",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1809,12 +1813,6 @@
    "size": 1371930
   },
   {
-   "path": "mods/camera_entity_fade-0.1.1+forge-1.20.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/camera_entity_fade-0.1.1%2Bforge-1.20.1.jar?v=e9b1e4e018",
-   "sha1": "e9b1e4e018f19da510ff26068af2b534bf18e9ec",
-   "size": 92679
-  },
-  {
    "path": "mods/CerbonsApi-Forge-1.20.1-1.0.0.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/CerbonsApi-Forge-1.20.1-1.0.0.jar?v=331687b0f8",
    "sha1": "331687b0f8ca6410d9fa24a64c10ccad77f770ec",
@@ -2391,6 +2389,12 @@
    "size": 794579
   },
   {
+   "path": "mods/reforgedplaymod-1.20.1-0.3.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/reforgedplaymod-1.20.1-0.3.1.jar?v=37b714750d",
+   "sha1": "37b714750d0e5487b488b29ff1e1623e5bb18ed6",
+   "size": 16661938
+  },
+  {
    "path": "mods/repairbox-forge-1.0.7.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/repairbox-forge-1.0.7.jar?v=5f67a3085a",
    "sha1": "5f67a3085ac89db4e8c6309ee57b10d05a97db3a",
@@ -2439,8 +2443,8 @@
    "size": 221124
   },
   {
-   "path": "mods/signal_flares-2.0.1-forge-1.20.1.jar.disabled",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/signal_flares-2.0.1-forge-1.20.1.jar.disabled?v=6b0ca3883b",
+   "path": "mods/signal_flares-2.0.1-forge-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/signal_flares-2.0.1-forge-1.20.1.jar?v=6b0ca3883b",
    "sha1": "6b0ca3883b37ac25a2aa6e49f798d3aeedfad6c9",
    "size": 1060326
   },

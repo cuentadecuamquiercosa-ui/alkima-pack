@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.24-1339",
+   "date": "24/10/2026",
+   "added": [
+    "Krypton Reno-forge-1.20.1-26.1.1-1.20.1"
+   ],
+   "updated": [],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.10.24-1329",
    "date": "24/10/2026",
    "added": [
@@ -135,20 +145,9 @@
    "updated": [],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.10.17-0841",
-   "date": "17/10/2026",
-   "added": [],
-   "updated": [],
-   "removed": [
-    "FaancyFlares-1.20.1-V1",
-    "snassets_particles-1.0.2"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.10.24-1329",
+ "version": "2026.10.24-1339",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -2233,6 +2232,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/kotlinforforge-4.12.0-all.jar?v=962fdb7604",
    "sha1": "962fdb760409d6d71cbf079235f1ca94e3863a22",
    "size": 7442998
+  },
+  {
+   "path": "mods/Krypton Reno-forge-1.20.1-26.1.1-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Krypton%20Reno-forge-1.20.1-26.1.1-1.20.1.jar?v=bfa957bfa1",
+   "sha1": "bfa957bfa1f477f2cba4bd7fdf0e803095f80621",
+   "size": 1793920
   },
   {
    "path": "mods/l2complements-2.6.1.jar",

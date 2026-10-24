@@ -6,6 +6,17 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.24-1346",
+   "date": "24/10/2026",
+   "added": [
+    "Iceberg-1.20.1-forge-1.1.25",
+    "Prism-1.20.1-forge-1.0.5"
+   ],
+   "updated": [],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.10.24-1339",
    "date": "24/10/2026",
    "added": [
@@ -135,19 +146,9 @@
     "realmrpg_quests-0.1.1-forge-1.20.1"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.17-0845",
-   "date": "17/10/2026",
-   "added": [
-    "signal_flares-2.0.1-forge-1.20.1"
-   ],
-   "updated": [],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.10.24-1339",
+ "version": "2026.10.24-1346",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -2156,6 +2157,12 @@
    "size": 382880
   },
   {
+   "path": "mods/Iceberg-1.20.1-forge-1.1.25.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Iceberg-1.20.1-forge-1.1.25.jar?v=d551ff5581",
+   "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
+   "size": 134551
+  },
+  {
    "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar?v=9eacd407b7",
    "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
@@ -2406,6 +2413,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/playeruuiddatarestorer-1.0.1.jar?v=bbb8e0cea6",
    "sha1": "bbb8e0cea6d51d59e31b8eb4a2d18a8c08fd28d1",
    "size": 16558
+  },
+  {
+   "path": "mods/Prism-1.20.1-forge-1.0.5.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Prism-1.20.1-forge-1.0.5.jar?v=bcb4bbb105",
+   "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+   "size": 52205
   },
   {
    "path": "mods/PuzzlesLib-v8.1.36-1.20.1-Forge.jar",

@@ -1,5 +1,5 @@
 #Send a welcome message containing tips when joining the world
-sayThanksMessage = true
+sayThanksMessage = false
 #If this debug feature is enabled, SecurityCraft will attempt to find and report mods that prevent the feature of viewing security cameras from working when they immediately reset the player's camera entity.
 debug_camera_reset_tracing = false
 #Should Secure Redstone Interfaces in "Receiver" mode be rendered without the spinning disk? This may lead to slight clientside performance gains.

@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.26-1119",
+   "date": "26/10/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "anticheat-1.0.0-v1.1-forge-1.20.1"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.26-1114",
    "date": "26/10/2026",
    "added": [
@@ -154,23 +164,9 @@
     "alkima_menu-1.0.0"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.17-1535",
-   "date": "17/10/2026",
-   "added": [
-    "signal_flares-2.0.1-forge-1.20.1.jar"
-   ],
-   "updated": [],
-   "removed": [
-    "perspective_api-1.5.0-beta+forge-1.20.1",
-    "reforgedplaymod-1.20.1-0.3.1",
-    "signal_flares-2.0.1-forge-1.20.1"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.10.26-1114",
+ "version": "2026.10.26-1119",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1885,12 +1881,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/amendments-1.20-2.2.6.jar?v=dc79f8c532",
    "sha1": "dc79f8c5326b059c8f136765b4bca826147cf2d7",
    "size": 1315525
-  },
-  {
-   "path": "mods/anticheat-1.0.0-v1.1-forge-1.20.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/anticheat-1.0.0-v1.1-forge-1.20.1.jar?v=18c7ef5730",
-   "sha1": "18c7ef573078f9b72361de8eb54554c44a60c870",
-   "size": 272925
   },
   {
    "path": "mods/antixray-forge-1.4.6+1.20.1.jar",

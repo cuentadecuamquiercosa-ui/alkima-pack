@@ -1,0 +1,23 @@
+{
+  "partyFrames": true,
+  "partyAnchor": "TOP_LEFT",
+  "partyX": 6,
+  "partyY": 30,
+  "partyScale": 1.0,
+  "partyMax": 6,
+  "partyShowHealth": true,
+  "partyShowDistance": true,
+  "worldMarkers": true,
+  "markerMinDistance": 12,
+  "worldWaypoints": true,
+  "claimBorders": true,
+  "landNotice": true,
+  "pingSound": true,
+  "inventoryButton": true,
+  "notices": true,
+  "mapTeammates": true,
+  "mapClaims": true,
+  "mapWaypoints": true,
+  "mapClaimOpacity": 0.35,
+  "hiddenWaypoints": []
+}

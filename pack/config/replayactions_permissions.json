@@ -1,0 +1,8 @@
+{
+  "admins": [],
+  "moderators": [],
+  "_comment1": "Add player names or UUIDs to grant permissions",
+  "_comment2": "Admins: full access including giving back items",
+  "_comment3": "Moderators: can view/resolve reports, apply sanctions, view replays",
+  "_comment4": "Example: moderators: [\"PlayerName\", \"uuid-here\"]"
+}

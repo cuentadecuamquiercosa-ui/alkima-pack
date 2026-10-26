@@ -158,4 +158,21 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	useEndBiomeCache = "default"
+	# (Default: true) Whether to compile the terrain-shape functions (density functions) to fast code.
+	# The terrain is the same either way; set to false to rule it out when looking for a worldgen problem.
+	# -Dc2me.dfc.enabled=false does the same.
+	# 
+	densityCompiler = "default"
+	# (Default: true) Whether to skip or bulk-fill noise cells whose blocks are proven in advance (all sky, or all the default block).
+	# Switches itself off when another mod hooks what such a cell skips. -Dc2me.cellproof.enabled=false does the same.
+	# 
+	cellProofs = "default"
+	# (Default: true) Whether to reuse the parts of the terrain-shape functions that no chunk changes, instead of rebuilding them for
+	# every chunk. -Dc2me.puremap.puremap=false does the same.
+	# 
+	reuseDensityFunctions = "default"
+	# (Default: true) Whether surface rules place their blocks through a shortcut of vanilla's chunk write (same blocks and heightmaps).
+	# -Dc2me.surface.enabled=false does the same.
+	# 
+	surfaceFastPath = "default"
 

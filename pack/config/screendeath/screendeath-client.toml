@@ -1,0 +1,64 @@
+
+[cinematic]
+	#Seconds the death scene lasts before respawn.
+	#Range: 1.0 ~ 30.0
+	scene_duration_seconds = 6.0
+	#Death style: default, glitch, tv, crimson, glass, void, none (none = no effect}.
+	death_variant = "default"
+	#true = show the cinematic then respawn. false = keep the vanilla death screen.
+	instant_respawn = true
+	#Auto respawn when the scene ends (only if instant_respawn=true; false = click to respawn).
+	auto_respawn = true
+	#Show the random death message (false = no text).
+	show_text = true
+	#Show the real death cause above the text.
+	show_death_cause = false
+	#Random texts shown on death.
+	messages = ["Todo termina.", "La oscuridad te reclama.", "No deberias haber venido aqui.", "El silencio te observa.", "Otra vez..."]
+
+[effect]
+	#VHS scanlines/noise intensity.
+	#Range: 0.0 ~ 2.0
+	vhs_intensity = 1.0
+	#RGB split (chromatic aberration) strength.
+	#Range: 0.0 ~ 1.5
+	chromatic_aberration = 0.4
+	#Broken-screen glitch overlay during immunity.
+	glitch_enabled = true
+	#Glitch overlay intensity.
+	#Range: 0.0 ~ 2.0
+	glitch_intensity = 1.0
+
+[background]
+	#Use a custom image/GIF background instead of the procedural one.
+	use_image_or_gif = false
+	#File in config/screendeath/backgrounds/ (.png or .gif). Use small GIFs. Empty = procedural.
+	background_image = ""
+	#Darken the image/GIF. 0 = show as-is, 1 = fully black.
+	#Range: 0.0 ~ 1.0
+	background_dim = 0.15
+	#Opacity of the solid underlay behind the scene. 1 = solid background, 0 = fully transparent.
+	#Range: 0.0 ~ 1.0
+	background_opacity = 1.0
+
+[sound]
+	#Enable death/respawn sounds. Custom .ogg go in config/screendeath/sounds/.
+	sound_enabled = true
+	#Sound volume.
+	#Range: 0.0 ~ 2.0
+	sound_volume = 1.0
+	#Death sound: .ogg file name in config/screendeath/sounds/ (empty = mod default).
+	death_sound = ""
+	#Loop the death sound until respawn.
+	death_sound_loop = false
+	#Death sound pitch/speed (<1 slower/lower, >1 faster/higher).
+	#Range: 0.5 ~ 2.0
+	death_pitch = 1.0
+	#Respawn sound: .ogg file name in config/screendeath/sounds/ (empty = mod default).
+	respawn_sound = ""
+	#Loop the respawn sound during immunity (requires immunity_enabled).
+	respawn_sound_loop = false
+	#Respawn sound pitch/speed (<1 slower/lower, >1 faster/higher).
+	#Range: 0.5 ~ 2.0
+	respawn_pitch = 0.8
+

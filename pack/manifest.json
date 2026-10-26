@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.26-1057",
+   "date": "26/10/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "customskyboxes-forge-mc1.20.1-1.0.4.1"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.10.26-1050",
    "date": "26/10/2026",
    "added": [
@@ -149,25 +159,9 @@
    "updated": [],
    "removed": [],
    "other": 42
-  },
-  {
-   "version": "2026.10.17-1016",
-   "date": "17/10/2026",
-   "added": [
-    "camera_entity_fade-0.1.1+forge-1.20.1",
-    "oculus-mc1.20.1-1.8.0",
-    "perspective_api-1.5.0-beta+forge-1.20.1",
-    "v2.0 Forge 1.20-1.20.4"
-   ],
-   "updated": [],
-   "removed": [
-    "fancymenu_forge_3.9.14_MC_1.20.1",
-    "replaymodcinematics-0.1.0"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.10.26-1050",
+ "version": "2026.10.26-1057",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1970,12 +1964,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/CustomPlayerModels-1.20-0.6.27a.jar?v=4652dee093",
    "sha1": "4652dee093c796799756f5f6c89314c6d601ae65",
    "size": 2805930
-  },
-  {
-   "path": "mods/customskyboxes-forge-mc1.20.1-1.0.4.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/customskyboxes-forge-mc1.20.1-1.0.4.1.jar?v=59d59c135d",
-   "sha1": "59d59c135d21ebb355d815b7d7358b2e50aa76c6",
-   "size": 489715
   },
   {
    "path": "mods/DailyBoss-1.20.1-1.8.jar",

@@ -1,0 +1,50 @@
+
+[general]
+	#false = vuelve al menu principal original de Minecraft
+	enabled = true
+	#Frase bajo el logotipo
+	subtitle = "LA SUPERVIVENCIA ES SOLO EL COMIENZO"
+	#Etiqueta de temporada / edicion (vacio = no mostrar)
+	season = "TEMPORADA 1"
+	#Color de acento (hexadecimal)
+	accentColor = "#C0141E"
+	#Intensidad de las animaciones: 0 = ninguna, 1 = normal
+	#Range: 0.0 ~ 1.0
+	animationIntensity = 1.0
+	#Desplazamiento sutil del fondo con el raton
+	backgroundParallax = true
+
+[botones]
+	#Posicion horizontal de la columna de botones (% del ancho)
+	#Range: 0.0 ~ 60.0
+	x = 4.8
+	#Posicion vertical del primer boton (% del alto)
+	#Range: 5.0 ~ 80.0
+	y = 36.9
+	#Ancho de los botones (% del ancho)
+	#Range: 12.0 ~ 60.0
+	width = 27.0
+	#Alto de los botones (% del alto)
+	#Range: 3.5 ~ 14.0
+	height = 7.2
+	#Distancia entre botones (% del alto)
+	#Range: 4.0 ~ 16.0
+	pitch = 7.9
+
+[observacion]
+	#Indicador "bajo observacion" arriba a la derecha
+	show = true
+	line1 = "BAJO OBSERVACIÓN"
+	line2 = "TODO ESTÁ REGISTRADO"
+
+[panel_info]
+	#Panel discreto con texto decorativo (no son datos reales del mundo)
+	show = true
+	status = "EN ESPERA"
+	experience = "SUPERVIVENCIA EXTREMA"
+	phrase = "Algo observa cada decisión que tomas."
+
+[creditos]
+	#Lineas de la pantalla de creditos. Las que empiezan por "# " son titulos. Vacia = espacio.
+	lines = ["# ALKIMA", "Un experimento de supervivencia", "", "# CREADO POR", "Tu nombre aquí", "", "# AGRADECIMIENTOS", "A todos los que sobrevivieron", "", "Minecraft es una marca de Mojang AB."]
+

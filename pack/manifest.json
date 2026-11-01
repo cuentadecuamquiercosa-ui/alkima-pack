@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.10.31-2150",
+   "date": "31/10/2026",
+   "added": [],
+   "updated": [
+    "AlkimaBrecha-1.0.0"
+   ],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.10.31-1725",
    "date": "31/10/2026",
    "added": [
@@ -158,20 +168,9 @@
     "sophisticatedcore-1.20.1-1.5.15.2427"
    ],
    "other": 9
-  },
-  {
-   "version": "2026.10.24-1351",
-   "date": "24/10/2026",
-   "added": [],
-   "updated": [],
-   "removed": [
-    "canary-mc1.20.1-0.3.3",
-    "radium-mc1.20.1-0.12.4+git.26c9d8e"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.10.31-1725",
+ "version": "2026.10.31-2150",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1900,9 +1899,9 @@
   },
   {
    "path": "mods/AlkimaBrecha-1.0.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AlkimaBrecha-1.0.0.jar?v=c2a6f4afae",
-   "sha1": "c2a6f4afaea64bd6aeeaba00fed7fe016bdf05b1",
-   "size": 497289
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AlkimaBrecha-1.0.0.jar?v=732cf1df42",
+   "sha1": "732cf1df4224eb0e63ef294017dfb6be6266db83",
+   "size": 89849
   },
   {
    "path": "mods/alltheleaks-1.1.4+1.20.1-forge.jar",

@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.01-1130",
+   "date": "01/11/2026",
+   "added": [],
+   "updated": [
+    "alkteams-1.0.0"
+   ],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.11.01-1120",
    "date": "01/11/2026",
    "added": [
@@ -133,28 +143,9 @@
     "anticheat-1.0.0-v1.1-forge-1.20.1"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.26-1114",
-   "date": "26/10/2026",
-   "added": [
-    "immersivearmorhud-forge-1.0.1-1.20.1",
-    "txnilib-forge-1.0.24-1.20.1"
-   ],
-   "updated": [],
-   "removed": [
-    "CustomPlayerModels-1.20-0.6.27a",
-    "dailyshops-0.1.0-1.20.1",
-    "screendeath-1.0.2",
-    "slate-core-forge-1.20.1-1.1.0",
-    "slate-teams-forge-1.20.1-1.1.0",
-    "spell_engine-forge-1.10.10+1.20.1",
-    "spell_power-forge-1.6.1+1.20.1"
-   ],
-   "other": 30
   }
  ],
- "version": "2026.11.01-1120",
+ "version": "2026.11.01-1130",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1889,9 +1880,9 @@
   },
   {
    "path": "mods/alkteams-1.0.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkteams-1.0.0.jar?v=1deb72fa57",
-   "sha1": "1deb72fa574da4c90f0f0611fb8625306a34a4fe",
-   "size": 97315
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkteams-1.0.0.jar?v=83b90fe3c6",
+   "sha1": "83b90fe3c6d475f8a46f4fb01260a28b27bed682",
+   "size": 89763
   },
   {
    "path": "mods/alltheleaks-1.1.4+1.20.1-forge.jar",

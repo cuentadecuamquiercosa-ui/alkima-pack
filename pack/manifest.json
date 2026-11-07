@@ -6,6 +6,28 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.07-0120",
+   "date": "07/11/2026",
+   "added": [
+    "collective-1.20.1-8.82",
+    "entity_texture_features-7.2.7-1.20.1-forge",
+    "minevegas-casino-neoforge-1.20.1-1.1.1",
+    "smoothmovement-1.20.1-3.2",
+    "sophisticatedcore-1.20.1-1.5.29.2459"
+   ],
+   "updated": [
+    "alkima_flesh"
+   ],
+   "removed": [
+    "collective-1.20.1-8.73",
+    "entity_texture_features-7.2.6-1.20.1-forge",
+    "minevegas-casino-neoforge-1.20.1-1.1.0",
+    "smoothmovement-1.20.1-3.0",
+    "sophisticatedcore-1.20.1-1.5.21.2444"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.11.01-1130",
    "date": "01/11/2026",
    "added": [],
@@ -133,19 +155,9 @@
     "villagergolemhealer 1.20.1"
    ],
    "other": 1
-  },
-  {
-   "version": "2026.10.26-1119",
-   "date": "26/10/2026",
-   "added": [],
-   "updated": [],
-   "removed": [
-    "anticheat-1.0.0-v1.1-forge-1.20.1"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.11.01-1130",
+ "version": "2026.11.07-0120",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1862,9 +1874,9 @@
   },
   {
    "path": "mods/alkima_flesh.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkima_flesh.jar?v=2adaeef93d",
-   "sha1": "2adaeef93d0c853ac9179104ed2a664a78b29e91",
-   "size": 68044
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkima_flesh.jar?v=79a5690ed0",
+   "sha1": "79a5690ed059d8dfc9acee7457fb0ab997e3bd23",
+   "size": 281507
   },
   {
    "path": "mods/alkima_optimizer-1.0.0.jar",
@@ -2053,10 +2065,10 @@
    "size": 20299
   },
   {
-   "path": "mods/collective-1.20.1-8.73.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.73.jar?v=2f6a6a7935",
-   "sha1": "2f6a6a793567a29841569390b551a464e4fa805a",
-   "size": 934521
+   "path": "mods/collective-1.20.1-8.82.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.82.jar?v=57612699c2",
+   "sha1": "57612699c286aed1ac32ab1114e21f344e80c5ac",
+   "size": 1026588
   },
   {
    "path": "mods/controlplus-1.0.2.jar",
@@ -2233,10 +2245,10 @@
    "size": 840669
   },
   {
-   "path": "mods/entity_texture_features-7.2.6-1.20.1-forge.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/entity_texture_features-7.2.6-1.20.1-forge.jar?v=61f8c27ea4",
-   "sha1": "61f8c27ea487064f674a587780f3b6f24f22a74f",
-   "size": 999570
+   "path": "mods/entity_texture_features-7.2.7-1.20.1-forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/entity_texture_features-7.2.7-1.20.1-forge.jar?v=5a331e9704",
+   "sha1": "5a331e97045010b4851e7fc0fb8ac5184c6adcf7",
+   "size": 1004366
   },
   {
    "path": "mods/entityculling-forge-1.11.3-mc1.20.1.jar",
@@ -2497,10 +2509,10 @@
    "size": 224762
   },
   {
-   "path": "mods/minevegas-casino-neoforge-1.20.1-1.1.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/minevegas-casino-neoforge-1.20.1-1.1.0.jar?v=09e7306d02",
-   "sha1": "09e7306d024631d25cafcee076c48eab49023968",
-   "size": 27121193
+   "path": "mods/minevegas-casino-neoforge-1.20.1-1.1.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/minevegas-casino-neoforge-1.20.1-1.1.1.jar?v=f3b1106ae9",
+   "sha1": "f3b1106ae9aaca8c8bc7fcc32af8265a77b6b94f",
+   "size": 27160111
   },
   {
    "path": "mods/mini_creepers-1.3.1-forge-1.20.1.jar",
@@ -2755,10 +2767,10 @@
    "size": 17275
   },
   {
-   "path": "mods/smoothmovement-1.20.1-3.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/smoothmovement-1.20.1-3.0.jar?v=480848042e",
-   "sha1": "480848042e9722975f915c5315716e03007df271",
-   "size": 686531
+   "path": "mods/smoothmovement-1.20.1-3.2.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/smoothmovement-1.20.1-3.2.jar?v=89e5991b3d",
+   "sha1": "89e5991b3db10153bede8c38c7584700656b7c4a",
+   "size": 686553
   },
   {
    "path": "mods/smoothswapping-0.9.3.2-1.20.1-forge.jar",
@@ -2773,10 +2785,10 @@
    "size": 1232150
   },
   {
-   "path": "mods/sophisticatedcore-1.20.1-1.5.21.2444.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/sophisticatedcore-1.20.1-1.5.21.2444.jar?v=29228c9c32",
-   "sha1": "29228c9c321d3f50afbe6ab3e180be6d3680a606",
-   "size": 1772747
+   "path": "mods/sophisticatedcore-1.20.1-1.5.29.2459.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/sophisticatedcore-1.20.1-1.5.29.2459.jar?v=e25e2e0412",
+   "sha1": "e25e2e0412509e803369d66a19d7c67895a67d90",
+   "size": 1774900
   },
   {
    "path": "mods/spark-1.10.53-forge.jar",

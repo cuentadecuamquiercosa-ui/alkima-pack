@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.07-0153",
+   "date": "07/11/2026",
+   "added": [
+    "AlkimaBrecha-1.0.0"
+   ],
+   "updated": [],
+   "removed": [],
+   "other": 0
+  },
+  {
    "version": "2026.11.07-0134",
    "date": "07/11/2026",
    "added": [],
@@ -128,19 +138,9 @@
     "alkima_menu-1.0.0"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.29-2349",
-   "date": "29/10/2026",
-   "added": [
-    "alkima_menu-1.0.0"
-   ],
-   "updated": [],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.11.07-0134",
+ "version": "2026.11.07-0153",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1866,6 +1866,12 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkima_optimizer-1.0.0.jar?v=e724dce94c",
    "sha1": "e724dce94cc83437d22f66c6bedd21fc836f5675",
    "size": 10572
+  },
+  {
+   "path": "mods/AlkimaBrecha-1.0.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AlkimaBrecha-1.0.0.jar?v=7bf0d95cc4",
+   "sha1": "7bf0d95cc462294bd8aa54c9103725b0591a33d8",
+   "size": 562033
   },
   {
    "path": "mods/alkteams-1.0.0.jar",

@@ -6,6 +6,18 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.07-1703",
+   "date": "07/11/2026",
+   "added": [
+    "alkima_flesh-1.3.0"
+   ],
+   "updated": [],
+   "removed": [
+    "alkima_flesh-1.2.0"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.11.07-1244",
    "date": "07/11/2026",
    "added": [
@@ -134,19 +146,9 @@
     "sophisticatedcore-1.20.1-1.5.17.2435"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.30-0923",
-   "date": "30/10/2026",
-   "added": [
-    "alkima_menu-1.0.0"
-   ],
-   "updated": [],
-   "removed": [],
-   "other": 11
   }
  ],
- "version": "2026.11.07-1244",
+ "version": "2026.11.07-1703",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1862,10 +1864,10 @@
    "size": 34056
   },
   {
-   "path": "mods/alkima_flesh-1.2.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkima_flesh-1.2.0.jar?v=35a99c717d",
-   "sha1": "35a99c717d4083dc45b7b073b53e405339fc181b",
-   "size": 320176
+   "path": "mods/alkima_flesh-1.3.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkima_flesh-1.3.0.jar?v=1fbb5ae7d5",
+   "sha1": "1fbb5ae7d50ae89a94ea777d13257ba189fecc8b",
+   "size": 320416
   },
   {
    "path": "mods/alkima_optimizer-1.0.0.jar",

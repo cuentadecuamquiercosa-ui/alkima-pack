@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.07-1711",
+   "date": "07/11/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "AsyncParticles-20.1.4.4+1.20.1"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.11.07-1703",
    "date": "07/11/2026",
    "added": [
@@ -121,34 +131,9 @@
    ],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.10.31-1725",
-   "date": "31/10/2026",
-   "added": [
-    "Data_Anchor-forge-1.20.1-1.0.0.24",
-    "alkima_flesh",
-    "c2meforge-0.2.0-forge.9.9.6-all",
-    "collective-1.20.1-8.72",
-    "minevegas-casino-neoforge-1.20.1-1.1.0",
-    "sophisticatedbackpacks-1.20.1-3.26.19.2239",
-    "sophisticatedcore-1.20.1-1.5.21.2444"
-   ],
-   "updated": [],
-   "removed": [
-    "Data_Anchor-forge-1.20.1-1.0.0.23",
-    "alkima_menu-1.0.0",
-    "alkima_menu",
-    "c2meforge-0.2.0-forge.9.9.4-all",
-    "collective-1.20.1-8.69",
-    "minevegas-casino-neoforge-1.20.1-1.0.4",
-    "sophisticatedbackpacks-1.20.1-3.26.17.2231",
-    "sophisticatedcore-1.20.1-1.5.17.2435"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.11.07-1703",
+ "version": "2026.11.07-1711",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1922,12 +1907,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/armor_model_api-forge-1.0.0%2B1.20.1.jar?v=c5c6613cc3",
    "sha1": "c5c6613cc3d982fba0e4a378ecbb3ea09d78df23",
    "size": 86757
-  },
-  {
-   "path": "mods/AsyncParticles-20.1.4.4+1.20.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AsyncParticles-20.1.4.4%2B1.20.1.jar?v=43cec70dc2",
-   "sha1": "43cec70dc2940d8efc4d2933e65cc635b47c686e",
-   "size": 1998126
   },
   {
    "path": "mods/Audio Improvements v2.0.1 (Forge 1.20.1).jar",

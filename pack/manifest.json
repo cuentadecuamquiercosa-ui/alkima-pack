@@ -6,6 +6,16 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.07-0134",
+   "date": "07/11/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "AlkimaBrecha-1.0.0"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.11.07-0120",
    "date": "07/11/2026",
    "added": [
@@ -128,36 +138,9 @@
    "updated": [],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.10.29-1851",
-   "date": "29/10/2026",
-   "added": [
-    "Cinematic Interaction-Forge-1.20.1-0.18.30",
-    "c2meforge-0.2.0-forge.9.9.4-all",
-    "collective-1.20.1-8.69",
-    "immersivehotbar-1.3.0-forge-1.20.1",
-    "minevegas-casino-neoforge-1.20.1-1.0.4",
-    "moonlight-1.20-2.16.38B-forge",
-    "sophisticatedbackpacks-1.20.1-3.26.17.2231",
-    "sophisticatedcore-1.20.1-1.5.17.2435"
-   ],
-   "updated": [],
-   "removed": [
-    "adventure_mass-1.2.0-forge-1.20.1",
-    "alexscaves-2.0.2",
-    "c2meforge-0.2.0-forge.9.9.3-all",
-    "collective-1.20.1-8.65",
-    "moonlight-1.20-2.16.37-forge",
-    "signal_flares-2.0.1-forge-1.20.1",
-    "sophisticatedbackpacks-1.20.1-3.26.15.2228",
-    "sophisticatedcore-1.20.1-1.5.16.2433",
-    "villagergolemhealer 1.20.1"
-   ],
-   "other": 1
   }
  ],
- "version": "2026.11.07-0120",
+ "version": "2026.11.07-0134",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1883,12 +1866,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkima_optimizer-1.0.0.jar?v=e724dce94c",
    "sha1": "e724dce94cc83437d22f66c6bedd21fc836f5675",
    "size": 10572
-  },
-  {
-   "path": "mods/AlkimaBrecha-1.0.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AlkimaBrecha-1.0.0.jar?v=ade37140e7",
-   "sha1": "ade37140e72ca920508a82ad8cc948a2fe4629b4",
-   "size": 561894
   },
   {
    "path": "mods/alkteams-1.0.0.jar",

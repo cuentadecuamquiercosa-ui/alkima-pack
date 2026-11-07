@@ -6,6 +6,24 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.07-1244",
+   "date": "07/11/2026",
+   "added": [
+    "alkima_flesh-1.2.0",
+    "collective-1.20.1-8.83",
+    "jei_plus_plus-1.0.9-1.20.1",
+    "moonlight-1.20-2.16.39-forge"
+   ],
+   "updated": [],
+   "removed": [
+    "alkima_flesh",
+    "collective-1.20.1-8.82",
+    "jei_plus_plus-1.0.8a-1.20.1",
+    "moonlight-1.20-2.16.38B-forge"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.11.07-0153",
    "date": "07/11/2026",
    "added": [
@@ -126,21 +144,9 @@
    "updated": [],
    "removed": [],
    "other": 11
-  },
-  {
-   "version": "2026.10.30-0914",
-   "date": "30/10/2026",
-   "added": [
-    "alkima_menu"
-   ],
-   "updated": [],
-   "removed": [
-    "alkima_menu-1.0.0"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.11.07-0153",
+ "version": "2026.11.07-1244",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1856,10 +1862,10 @@
    "size": 34056
   },
   {
-   "path": "mods/alkima_flesh.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkima_flesh.jar?v=79a5690ed0",
-   "sha1": "79a5690ed059d8dfc9acee7457fb0ab997e3bd23",
-   "size": 281507
+   "path": "mods/alkima_flesh-1.2.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alkima_flesh-1.2.0.jar?v=35a99c717d",
+   "sha1": "35a99c717d4083dc45b7b073b53e405339fc181b",
+   "size": 320176
   },
   {
    "path": "mods/alkima_optimizer-1.0.0.jar",
@@ -2048,10 +2054,10 @@
    "size": 20299
   },
   {
-   "path": "mods/collective-1.20.1-8.82.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.82.jar?v=57612699c2",
-   "sha1": "57612699c286aed1ac32ab1114e21f344e80c5ac",
-   "size": 1026588
+   "path": "mods/collective-1.20.1-8.83.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.83.jar?v=18972d1fb9",
+   "sha1": "18972d1fb9a925fc72331e7ae055ea7cd2a4f653",
+   "size": 1045574
   },
   {
    "path": "mods/controlplus-1.0.2.jar",
@@ -2408,10 +2414,10 @@
    "size": 1778129
   },
   {
-   "path": "mods/jei_plus_plus-1.0.8a-1.20.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/jei_plus_plus-1.0.8a-1.20.1.jar?v=0d850c4540",
-   "sha1": "0d850c4540b1b3cb7c586695b746e33e62bdecc3",
-   "size": 389858
+   "path": "mods/jei_plus_plus-1.0.9-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/jei_plus_plus-1.0.9-1.20.1.jar?v=746cc95a59",
+   "sha1": "746cc95a59b29e32f24063085c633d697a54e30c",
+   "size": 398371
   },
   {
    "path": "mods/journeymap-forge-1.20.1-6.0.7.jar",
@@ -2522,10 +2528,10 @@
    "size": 195066
   },
   {
-   "path": "mods/moonlight-1.20-2.16.38B-forge.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/moonlight-1.20-2.16.38B-forge.jar?v=7394cf9cbc",
-   "sha1": "7394cf9cbc30015b50f794ae9a85aa0b18ab152b",
-   "size": 1425261
+   "path": "mods/moonlight-1.20-2.16.39-forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/moonlight-1.20-2.16.39-forge.jar?v=12405de298",
+   "sha1": "12405de298c0d6c8ba53effdc5c8f28edee3aadc",
+   "size": 1423451
   },
   {
    "path": "mods/MossyLib-1.6.0+1.20.1+forge.jar",

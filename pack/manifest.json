@@ -6,6 +6,21 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.08-1236",
+   "date": "08/11/2026",
+   "added": [
+    "enhanced_boss_bars-1.1.3-1.20.1-forge",
+    "inventory_damaged-1.20.1-forge-0.5.0"
+   ],
+   "updated": [],
+   "removed": [
+    "Cinematic Interaction-Forge-1.20.1-0.18.30",
+    "enhanced_boss_bars-1.1.2-1.20.1-forge",
+    "minevegas-casino-neoforge-1.20.1-1.1.1"
+   ],
+   "other": 1
+  },
+  {
    "version": "2026.11.07-1711",
    "date": "07/11/2026",
    "added": [],
@@ -121,19 +136,9 @@
    ],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.10.31-2150",
-   "date": "31/10/2026",
-   "added": [],
-   "updated": [
-    "AlkimaBrecha-1.0.0"
-   ],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.11.07-1711",
+ "version": "2026.11.08-1236",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -2011,12 +2016,6 @@
    "size": 56517
   },
   {
-   "path": "mods/Cinematic Interaction-Forge-1.20.1-0.18.30.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Cinematic%20Interaction-Forge-1.20.1-0.18.30.jar?v=9fb8423c39",
-   "sha1": "9fb8423c3963ddd3449c480daae7d81e72632762",
-   "size": 1314545
-  },
-  {
    "path": "mods/citadel-2.6.3-1.20.1.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/citadel-2.6.3-1.20.1.jar?v=fb0b1fa96c",
    "sha1": "fb0b1fa96ce28e4be77b38ad95d83c3da7ec8316",
@@ -2203,10 +2202,10 @@
    "size": 1638200
   },
   {
-   "path": "mods/enhanced_boss_bars-1.1.2-1.20.1-forge.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/enhanced_boss_bars-1.1.2-1.20.1-forge.jar?v=7bdeb7ebce",
-   "sha1": "7bdeb7ebcec80b0ebed73fa124fbeaebb5d7b2de",
-   "size": 251245
+   "path": "mods/enhanced_boss_bars-1.1.3-1.20.1-forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/enhanced_boss_bars-1.1.3-1.20.1-forge.jar?v=a25717a059",
+   "sha1": "a25717a059a57198095a967b7c690226602899d4",
+   "size": 252069
   },
   {
    "path": "mods/entity_model_features-3.3.12-1.20.1-forge.jar",
@@ -2371,6 +2370,12 @@
    "size": 713270
   },
   {
+   "path": "mods/inventory_damaged-1.20.1-forge-0.5.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/inventory_damaged-1.20.1-forge-0.5.0.jar?v=1424d1e253",
+   "sha1": "1424d1e2531f7493a980941bb54f87eaae4d8891",
+   "size": 54606
+  },
+  {
    "path": "mods/ItemBorders-1.20.1-forge-1.2.2.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ItemBorders-1.20.1-forge-1.2.2.jar?v=cf42466689",
    "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a",
@@ -2477,12 +2482,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/mendingnerf-1.0.1-forge.jar?v=c3ad7a9233",
    "sha1": "c3ad7a9233bc89523ba20558d8970e9b3154cb61",
    "size": 224762
-  },
-  {
-   "path": "mods/minevegas-casino-neoforge-1.20.1-1.1.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/minevegas-casino-neoforge-1.20.1-1.1.1.jar?v=f3b1106ae9",
-   "sha1": "f3b1106ae9aaca8c8bc7fcc32af8265a77b6b94f",
-   "size": 27160111
   },
   {
    "path": "mods/mini_creepers-1.3.1-forge-1.20.1.jar",
@@ -2927,12 +2926,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/Wardenite%20Armor%20v1.5.zip?v=2b5b49c433",
    "sha1": "2b5b49c433668b3402782adb3dd001a8d1bd209d",
    "size": 8509
-  },
-  {
-   "path": "resourcepacks/You-Died-Sound.zip",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/resourcepacks/You-Died-Sound.zip?v=8b6dc5e8c2",
-   "sha1": "8b6dc5e8c29f5fd9e5435c5735cf1fc1d766f73f",
-   "size": 70233
   }
  ]
 }

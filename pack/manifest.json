@@ -6,6 +6,23 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.08-1337",
+   "date": "08/11/2026",
+   "added": [
+    "AnimatedHearts-2.2.0",
+    "alltheleaks-1.1.5-1.20.1-forge",
+    "collective-1.20.1-8.84",
+    "jei_plus_plus-1.0.9a-1.20.1"
+   ],
+   "updated": [],
+   "removed": [
+    "alltheleaks-1.1.4+1.20.1-forge",
+    "collective-1.20.1-8.83",
+    "jei_plus_plus-1.0.9-1.20.1"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.11.08-1236",
    "date": "08/11/2026",
    "added": [
@@ -126,19 +143,9 @@
     "collective-1.20.1-8.72"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.10.31-2320",
-   "date": "31/10/2026",
-   "added": [],
-   "updated": [
-    "AlkimaBrecha-1.0.0"
-   ],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.11.08-1236",
+ "version": "2026.11.08-1337",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -1878,16 +1885,22 @@
    "size": 89763
   },
   {
-   "path": "mods/alltheleaks-1.1.4+1.20.1-forge.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alltheleaks-1.1.4%2B1.20.1-forge.jar?v=b4935ae905",
-   "sha1": "b4935ae90526992b0c39cf2303cf36ec94a07c41",
-   "size": 1274164
+   "path": "mods/alltheleaks-1.1.5-1.20.1-forge.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/alltheleaks-1.1.5-1.20.1-forge.jar?v=97cbda479e",
+   "sha1": "97cbda479edec6cb12a256f53635a73d182e1433",
+   "size": 1273920
   },
   {
    "path": "mods/amendments-1.20-2.2.6.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/amendments-1.20-2.2.6.jar?v=dc79f8c532",
    "sha1": "dc79f8c5326b059c8f136765b4bca826147cf2d7",
    "size": 1315525
+  },
+  {
+   "path": "mods/AnimatedHearts-2.2.0.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/AnimatedHearts-2.2.0.jar?v=0c2a189a9c",
+   "sha1": "0c2a189a9c31821fa6f9493c032b9e8eb7bfe88d",
+   "size": 466666
   },
   {
    "path": "mods/antixray-forge-1.4.6+1.20.1.jar",
@@ -2034,10 +2047,10 @@
    "size": 20299
   },
   {
-   "path": "mods/collective-1.20.1-8.83.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.83.jar?v=18972d1fb9",
-   "sha1": "18972d1fb9a925fc72331e7ae055ea7cd2a4f653",
-   "size": 1045574
+   "path": "mods/collective-1.20.1-8.84.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/collective-1.20.1-8.84.jar?v=6b20c24e94",
+   "sha1": "6b20c24e94146b9273564fab8f79841f9ee0cf98",
+   "size": 1121485
   },
   {
    "path": "mods/controlplus-1.0.2.jar",
@@ -2400,10 +2413,10 @@
    "size": 1778129
   },
   {
-   "path": "mods/jei_plus_plus-1.0.9-1.20.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/jei_plus_plus-1.0.9-1.20.1.jar?v=746cc95a59",
-   "sha1": "746cc95a59b29e32f24063085c633d697a54e30c",
-   "size": 398371
+   "path": "mods/jei_plus_plus-1.0.9a-1.20.1.jar",
+   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/jei_plus_plus-1.0.9a-1.20.1.jar?v=37ee20f71e",
+   "sha1": "37ee20f71ee160e0e09b754ba57c0cfa39545a29",
+   "size": 399743
   },
   {
    "path": "mods/journeymap-forge-1.20.1-6.0.7.jar",

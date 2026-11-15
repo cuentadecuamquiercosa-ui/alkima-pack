@@ -6,6 +6,17 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.15-1212",
+   "date": "15/11/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "DailyBoss-BossesofMassDestruction-1.20.1-1.0",
+    "DailyBoss-BrutalBosses-1.20.1-1.2"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.11.15-1208",
    "date": "15/11/2026",
    "added": [
@@ -166,19 +177,9 @@
     "sophisticatedcore-1.20.1-1.5.21.2444"
    ],
    "other": 0
-  },
-  {
-   "version": "2026.11.01-1130",
-   "date": "01/11/2026",
-   "added": [],
-   "updated": [
-    "alkteams-1.0.0"
-   ],
-   "removed": [],
-   "other": 0
   }
  ],
- "version": "2026.11.15-1208",
+ "version": "2026.11.15-1212",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -2156,18 +2157,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/curios-forge-5.14.1%2B1.20.1.jar?v=452175b95a",
    "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
    "size": 398066
-  },
-  {
-   "path": "mods/DailyBoss-BossesofMassDestruction-1.20.1-1.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/DailyBoss-BossesofMassDestruction-1.20.1-1.0.jar?v=f89445f516",
-   "sha1": "f89445f516335da7ae7e85f5d30af37a7c1b2f8d",
-   "size": 10383157
-  },
-  {
-   "path": "mods/DailyBoss-BrutalBosses-1.20.1-1.2.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/DailyBoss-BrutalBosses-1.20.1-1.2.jar?v=29f38253ac",
-   "sha1": "29f38253ac50a79f76a2f82a1147e80903d1173f",
-   "size": 533653
   },
   {
    "path": "mods/Data_Anchor-forge-1.20.1-1.0.0.24.jar",

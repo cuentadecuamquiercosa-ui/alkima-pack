@@ -6,6 +6,24 @@
  "banner": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/branding/banner.png?v=1b9ff996",
  "changelog": [
   {
+   "version": "2026.11.16-0014",
+   "date": "16/11/2026",
+   "added": [],
+   "updated": [],
+   "removed": [
+    "EPR 1.0.1",
+    "Nether's Overhaul-1.20.1_V1.3.6",
+    "VoidManifestations-Forge-1.20.1-7.3.0-MEAL-GROWTH",
+    "endergetic-1.20.1-5.0.1",
+    "endertrigon-1.20.1-1.1-all",
+    "irons_lib-1.20.1-2.3.0",
+    "irons_spellbooks-1.20.1-3.16.3",
+    "l2complements-2.6.1",
+    "l2weaponry-2.6.3"
+   ],
+   "other": 0
+  },
+  {
    "version": "2026.11.15-1218",
    "date": "15/11/2026",
    "added": [
@@ -157,19 +175,9 @@
    "updated": [],
    "removed": [],
    "other": 0
-  },
-  {
-   "version": "2026.11.07-0134",
-   "date": "07/11/2026",
-   "added": [],
-   "updated": [],
-   "removed": [
-    "AlkimaBrecha-1.0.0"
-   ],
-   "other": 0
   }
  ],
- "version": "2026.11.15-1218",
+ "version": "2026.11.16-0014",
  "minecraft": "1.20.1",
  "forge": "47.4.21",
  "recommended_ram_gb": 4,
@@ -2197,18 +2205,6 @@
    "size": 232007
   },
   {
-   "path": "mods/endergetic-1.20.1-5.0.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/endergetic-1.20.1-5.0.1.jar?v=6b555cbb25",
-   "sha1": "6b555cbb2582c2580a9ac646abd5da2b4449837c",
-   "size": 15611923
-  },
-  {
-   "path": "mods/endertrigon-1.20.1-1.1-all.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/endertrigon-1.20.1-1.1-all.jar?v=bc154e50ca",
-   "sha1": "bc154e50cadb3e40a53bc89d11a99b0e9a4a0c30",
-   "size": 352603
-  },
-  {
    "path": "mods/endrem_forge-5.3.3-R-1.20.1.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/endrem_forge-5.3.3-R-1.20.1.jar?v=b4df41de84",
    "sha1": "b4df41de8439e834a493fe59842709ef33ecfa82",
@@ -2249,12 +2245,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/entityculling-forge-1.12.1-mc1.20.1.jar?v=571a91dc42",
    "sha1": "571a91dc42a266a70e44b6b459f996a0f7876c29",
    "size": 1528604
-  },
-  {
-   "path": "mods/EPR 1.0.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/EPR%201.0.1.jar?v=8d4e0f38f0",
-   "sha1": "8d4e0f38f023f7773ccb0e5d038c1c0b9c7e3c93",
-   "size": 72165
   },
   {
    "path": "mods/explosiveenhancement-1.2.0.jar",
@@ -2401,18 +2391,6 @@
    "size": 54606
   },
   {
-   "path": "mods/irons_lib-1.20.1-2.3.0.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/irons_lib-1.20.1-2.3.0.jar?v=3a6fecda42",
-   "sha1": "3a6fecda42c8469580ee82d80c0bedcec775a150",
-   "size": 1144018
-  },
-  {
-   "path": "mods/irons_spellbooks-1.20.1-3.16.3.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/irons_spellbooks-1.20.1-3.16.3.jar?v=726345aa21",
-   "sha1": "726345aa215756bd30b7cf8c338c9ae6bbc59799",
-   "size": 15570397
-  },
-  {
    "path": "mods/ItemBorders-1.20.1-forge-1.2.2.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/ItemBorders-1.20.1-forge-1.2.2.jar?v=cf42466689",
    "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a",
@@ -2473,22 +2451,10 @@
    "size": 1793920
   },
   {
-   "path": "mods/l2complements-2.6.1.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/l2complements-2.6.1.jar?v=dd629647a1",
-   "sha1": "dd629647a184b3d42503a1ce53a1dd3f3be2290d",
-   "size": 1211184
-  },
-  {
    "path": "mods/l2library-2.5.7.jar",
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/l2library-2.5.7.jar?v=c22a1c4d47",
    "sha1": "c22a1c4d47de71b840bbbbff2417360cacfc99d3",
    "size": 980796
-  },
-  {
-   "path": "mods/l2weaponry-2.6.3.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/l2weaponry-2.6.3.jar?v=d75f28d488",
-   "sha1": "d75f28d488555180a233d13a65eec310a5c146e4",
-   "size": 2635937
   },
   {
    "path": "mods/lootr-forge-1.20-0.7.35.94.jar",
@@ -2555,12 +2521,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/naturallychargedcreepers-1.20.1-3.7.jar?v=da7eafe96c",
    "sha1": "da7eafe96caf454f9742325e3c54e5525095a730",
    "size": 29298
-  },
-  {
-   "path": "mods/Nether's Overhaul-1.20.1_V1.3.6.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/Nether%27s%20Overhaul-1.20.1_V1.3.6.jar?v=344e2ac5ca",
-   "sha1": "344e2ac5ca57212161d89a4dd9b7000e0d0ae525",
-   "size": 423935
   },
   {
    "path": "mods/nether_armory-1.0.0-forge-1.20.1.jar",
@@ -2873,12 +2833,6 @@
    "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/voicechat-forge-1.20.1-2.6.22.jar?v=cc94c3eecc",
    "sha1": "cc94c3eecc325ea3066ee3cd8bf57142d1b11762",
    "size": 4923439
-  },
-  {
-   "path": "mods/VoidManifestations-Forge-1.20.1-7.3.0-MEAL-GROWTH.jar",
-   "url": "https://raw.githubusercontent.com/cuentadecuamquiercosa-ui/alkima-pack/main/pack/mods/VoidManifestations-Forge-1.20.1-7.3.0-MEAL-GROWTH.jar?v=74381b5bd1",
-   "sha1": "74381b5bd1c771bccfb711d053438779acf2cc01",
-   "size": 12995389
   },
   {
    "path": "mods/watut-forge-1.20.1-1.2.3.jar",
